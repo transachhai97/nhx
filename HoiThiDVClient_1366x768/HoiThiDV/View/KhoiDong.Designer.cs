@@ -599,14 +599,14 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label29.AutoSize = true;
             this.label29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(184)))), ((int)(((byte)(123)))));
-            this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.White;
             this.label29.Location = new System.Drawing.Point(3, 391);
             this.label29.Margin = new System.Windows.Forms.Padding(3);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(427, 58);
             this.label29.TabIndex = 5;
-            this.label29.Text = "Khởi động";
+            this.label29.Text = "Phần thi - KIẾN THỨC";
             this.label29.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // R1_Timer
