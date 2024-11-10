@@ -247,7 +247,7 @@
             this.R1_Point5.Name = "R1_Point5";
             this.R1_Point5.Size = new System.Drawing.Size(163, 70);
             this.R1_Point5.TabIndex = 3;
-            this.R1_Point5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.R1_Point5.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // panel9
             // 
@@ -270,7 +270,7 @@
             this.R1_Point4.Name = "R1_Point4";
             this.R1_Point4.Size = new System.Drawing.Size(163, 68);
             this.R1_Point4.TabIndex = 3;
-            this.R1_Point4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.R1_Point4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // panel8
             // 
@@ -293,7 +293,7 @@
             this.R1_Point3.Name = "R1_Point3";
             this.R1_Point3.Size = new System.Drawing.Size(163, 68);
             this.R1_Point3.TabIndex = 3;
-            this.R1_Point3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.R1_Point3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // panel7
             // 
@@ -316,7 +316,7 @@
             this.R1_Point2.Name = "R1_Point2";
             this.R1_Point2.Size = new System.Drawing.Size(163, 68);
             this.R1_Point2.TabIndex = 3;
-            this.R1_Point2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.R1_Point2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // panel1
             // 
@@ -454,7 +454,7 @@
             this.R1_Point1.Name = "R1_Point1";
             this.R1_Point1.Size = new System.Drawing.Size(163, 68);
             this.R1_Point1.TabIndex = 3;
-            this.R1_Point1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.R1_Point1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label29
             // 

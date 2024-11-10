@@ -370,19 +370,19 @@ namespace HoiThiDV
                     this.ctrl.dataServer.ContestTeams[teamId - 1].Mark = point;
                     this.ctrl.dataServer.Action = Constant.ACTION_UPDATE_SCORE;
 
-                    int currentRound = getGame();
+                    //int currentRound = getGame();
 
-                    ContestantDAO contestantDAO = new ContestantDAO();
-                    bool success = contestantDAO.UpdateContestantMark(currentRound, teamId, point);
+                    //ContestantDAO contestantDAO = new ContestantDAO();
+                    //bool success = contestantDAO.UpdateContestantMark(currentRound, teamId, point);
 
-                    if (success)
-                    {
-                        MessageBox.Show("Mark updated successfully!");
-                    }
-                    else
-                    {
-                        MessageBox.Show("Failed to update mark.");
-                    }
+                    //if (success)
+                    //{
+                    //    MessageBox.Show("Mark updated successfully!");
+                    //}
+                    //else
+                    //{
+                    //    MessageBox.Show("Failed to update mark.");
+                    //}
 
                     this.ctrl.SendToClient();
                 }

@@ -208,27 +208,27 @@ namespace HoiThiDV.View
                 if (data.ContestTeams.Count > 0)
                 {
                     R1_Team1.Text = sortedTeams[0].Name;
-                    R1_Point1.Text = sortedTeams[0].Mark.ToString("F2") + "";
+                    R1_Point1.Text = scoreText(sortedTeams[0].Mark) + "";
                 }
                 if (data.ContestTeams.Count > 1)
                 {
                     R1_Team2.Text = sortedTeams[1].Name;
-                    R1_Point2.Text = sortedTeams[1].Mark.ToString("F2") + "";
+                    R1_Point2.Text = scoreText(sortedTeams[1].Mark) + "";
                 }
                 if (data.ContestTeams.Count > 2)
                 {
                     R1_Team3.Text = sortedTeams[2].Name;
-                    R1_Point3.Text = sortedTeams[2].Mark.ToString("F2") + "";
+                    R1_Point3.Text = scoreText(sortedTeams[2].Mark) + "";
                 }
                 if (data.ContestTeams.Count > 3)
                 {
                     R1_Team4.Text = sortedTeams[3].Name;
-                    R1_Point4.Text = sortedTeams[3].Mark.ToString("F2") + "";
+                    R1_Point4.Text = scoreText(sortedTeams[3].Mark) + "";
                 }
                 if (data.ContestTeams.Count > 4)
                 {
                     R1_Team5.Text = sortedTeams[4].Name;
-                    R1_Point5.Text = sortedTeams[4].Mark.ToString("F2") + "";
+                    R1_Point5.Text = scoreText(sortedTeams[4].Mark) + "";
                 }
             }
 
@@ -253,7 +253,7 @@ namespace HoiThiDV.View
                 for (int i = 1; i <= sortedTeams.Count; i++)
                 {
                     SetTextComp("R1_Team" + i, sortedTeams[i - 1].Name);
-                    SetTextComp("R1_Point" + i, sortedTeams[i - 1].Mark.ToString("F2"));
+                    SetTextComp("R1_Point" + i, scoreText(sortedTeams[i - 1].Mark));
                 }
                 //if (data.ContestTeams.Count > 0)
                 //{
@@ -284,6 +284,11 @@ namespace HoiThiDV.View
 
         }
         #endregion
+
+        private string scoreText(float mark)
+        {
+            return mark != 0 ? mark.ToString("F2") : "-";
+        }
 
         private void KhoiDong_Load(object sender, EventArgs e)
         {
