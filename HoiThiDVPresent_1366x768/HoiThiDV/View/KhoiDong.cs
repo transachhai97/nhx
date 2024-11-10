@@ -282,6 +282,10 @@ namespace HoiThiDV.View
                 //}
             }
 
+            R1_Question.Text = "";
+            lblMin.Text = "00";
+            lblSecond.Text = "00";
+
         }
         #endregion
 

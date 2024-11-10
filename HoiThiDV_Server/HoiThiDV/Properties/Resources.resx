@@ -127,6 +127,9 @@
   <data name="banner1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\banner1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="dautru" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dautru.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="giphy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\giphy1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -166,7 +169,7 @@
   <data name="chia2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chia2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dautru" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dautru.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="banner-nhx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\banner-nhx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

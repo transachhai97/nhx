@@ -128,7 +128,7 @@
               "RelativeDocumentMoniker": "HoiThiDV\\FormServer.cs",
               "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
               "RelativeToolTip": "HoiThiDV\\FormServer.cs",
-              "ViewState": "AgIAABwBAAAAAAAAAAAQwHoBAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAALUEAAAAAAAAAAD4v7wEAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T13:42:56.787Z",
               "EditorCaption": ""
@@ -143,7 +143,8 @@
               "RelativeToolTip": "HoiThiDV\\FormServer.Designer.cs",
               "ViewState": "AgIAAA0MAAAAAAAAAAD4vxQMAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:13:18.295Z"
+              "WhenOpened": "2024-10-29T02:13:18.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,7 +155,8 @@
               "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs [Design]",
               "RelativeToolTip": "HoiThiDV\\FormServer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:32:20.618Z"
+              "WhenOpened": "2024-10-29T01:32:20.618Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

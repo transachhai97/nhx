@@ -66,7 +66,7 @@
             this.pnlHeader.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pnlHeader.BackgroundImage = global::HoiThiDV.Properties.Resources.FFFFFF__1_;
+            this.pnlHeader.BackgroundImage = global::HoiThiDV.Properties.Resources.banner_nhx;
             this.pnlHeader.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pnlHeader.Location = new System.Drawing.Point(0, 0);
             this.pnlHeader.Margin = new System.Windows.Forms.Padding(0);

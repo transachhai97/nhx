@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormServer));
             this.panel2 = new System.Windows.Forms.Panel();
             this.pp = new System.Windows.Forms.TabControl();
@@ -40,19 +40,13 @@
             this.R0_BtnGame = new System.Windows.Forms.Button();
             this.C1_cbxGame = new System.Windows.Forms.ComboBox();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.C1_txtTeam6 = new System.Windows.Forms.TextBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.C1_BtnSave = new System.Windows.Forms.Button();
             this.C1_txtTeam5 = new System.Windows.Forms.TextBox();
             this.C1_txtTeam4 = new System.Windows.Forms.TextBox();
             this.C1_txtTeam3 = new System.Windows.Forms.TextBox();
             this.C1_txtTeam2 = new System.Windows.Forms.TextBox();
             this.C1_txtTeam1 = new System.Windows.Forms.TextBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.tabJudgesConfig = new System.Windows.Forms.TabPage();
             this.panel39 = new System.Windows.Forms.Panel();
@@ -67,7 +61,6 @@
             this.txtMarkGK36 = new System.Windows.Forms.TextBox();
             this.txtMarkGK26 = new System.Windows.Forms.TextBox();
             this.txtMarkGK16 = new System.Windows.Forms.TextBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.txtGK6 = new System.Windows.Forms.TextBox();
             this.txtNameTeamBGK = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
@@ -99,16 +92,11 @@
             this.txtMarkGK31 = new System.Windows.Forms.TextBox();
             this.txtMarkGK21 = new System.Windows.Forms.TextBox();
             this.txtMarkGK11 = new System.Windows.Forms.TextBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.txtGK5 = new System.Windows.Forms.TextBox();
             this.txtGK4 = new System.Windows.Forms.TextBox();
             this.txtGK3 = new System.Windows.Forms.TextBox();
             this.txtGK2 = new System.Windows.Forms.TextBox();
             this.txtGK1 = new System.Windows.Forms.TextBox();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.label30 = new System.Windows.Forms.Label();
             this.tabRound1Config = new System.Windows.Forms.TabPage();
             this.label27 = new System.Windows.Forms.Label();
@@ -834,32 +822,17 @@
             this.panel27 = new System.Windows.Forms.Panel();
             this.R1_LblPoint1 = new System.Windows.Forms.Label();
             this.R1_LblTeam1 = new System.Windows.Forms.Label();
-            this.clickColor5 = new System.Windows.Forms.PictureBox();
-            this.clickColor4 = new System.Windows.Forms.PictureBox();
-            this.clickColor3 = new System.Windows.Forms.PictureBox();
-            this.clickColor2 = new System.Windows.Forms.PictureBox();
-            this.clickColor1 = new System.Windows.Forms.PictureBox();
-            this.R1_BtnTrue5 = new System.Windows.Forms.PictureBox();
-            this.R1_BtnTrue4 = new System.Windows.Forms.PictureBox();
-            this.R1_BtnTrue3 = new System.Windows.Forms.PictureBox();
-            this.R1_BtnTrue2 = new System.Windows.Forms.PictureBox();
-            this.R1_BtnTrue1 = new System.Windows.Forms.PictureBox();
             this.tabRound2 = new System.Windows.Forms.TabPage();
             this.R2_TimeAnswer6 = new System.Windows.Forms.Label();
             this.R2_TeamAnswer6 = new System.Windows.Forms.Label();
-            this.R2_BtnTrue6 = new System.Windows.Forms.PictureBox();
             this.R2_TimeAnswer5 = new System.Windows.Forms.Label();
             this.R2_TeamAnswer5 = new System.Windows.Forms.Label();
-            this.R2_BtnTrue5 = new System.Windows.Forms.PictureBox();
             this.R2_TimeAnswer4 = new System.Windows.Forms.Label();
             this.R2_TeamAnswer4 = new System.Windows.Forms.Label();
-            this.R2_BtnTrue4 = new System.Windows.Forms.PictureBox();
             this.R2_TimeAnswer3 = new System.Windows.Forms.Label();
             this.R2_TeamAnswer3 = new System.Windows.Forms.Label();
-            this.R2_BtnTrue3 = new System.Windows.Forms.PictureBox();
             this.R2_TimeAnswer2 = new System.Windows.Forms.Label();
             this.R2_TeamAnswer2 = new System.Windows.Forms.Label();
-            this.R2_BtnTrue2 = new System.Windows.Forms.PictureBox();
             this.R2_btnUnlockTeam = new System.Windows.Forms.Button();
             this.R2_btnLockTeam = new System.Windows.Forms.Button();
             this.R2_BtnShowAnswerCT = new System.Windows.Forms.Button();
@@ -1516,7 +1489,6 @@
             this.R2_btn30shangdoc = new System.Windows.Forms.Button();
             this.R2_BtnOpenRow = new System.Windows.Forms.Button();
             this.R2_BtnCloseRow = new System.Windows.Forms.Button();
-            this.R2_BtnTrue1 = new System.Windows.Forms.PictureBox();
             this.tabGioiThieu = new System.Windows.Forms.TabPage();
             this.cboTitle = new System.Windows.Forms.ComboBox();
             this.lblDiemPhat = new System.Windows.Forms.Label();
@@ -1554,11 +1526,6 @@
             this.tabBamChuong = new System.Windows.Forms.TabPage();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.R_BC_BtnTrue6 = new System.Windows.Forms.PictureBox();
-            this.R_BC_BtnStar6 = new System.Windows.Forms.PictureBox();
-            this.R_BC_BtnBell6 = new System.Windows.Forms.PictureBox();
-            this.R_BC_BtnTrue_x2_6 = new System.Windows.Forms.PictureBox();
-            this.R_BC_BtnTrue_chia2_6 = new System.Windows.Forms.PictureBox();
             this.R_BC_TeamAnswer6 = new System.Windows.Forms.Label();
             this.R_BC_TimeAnswer6 = new System.Windows.Forms.Label();
             this.R_BC_TeamAnswer5 = new System.Windows.Forms.Label();
@@ -1632,6 +1599,58 @@
             this.panel51 = new System.Windows.Forms.Panel();
             this.R_BC_LblPoint1 = new System.Windows.Forms.Label();
             this.R_BC_LblTeam1 = new System.Windows.Forms.Label();
+            this.MenuRight = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.cmdScreenTeam = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmdScreenJudges = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmdScreenJudges1doi = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmdScreenRound1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmdScreenRound2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmdScreenRound_GT = new System.Windows.Forms.ToolStripMenuItem();
+            this.startToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pauseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.stopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.change2MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.change3MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.change5MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.change7MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmdScreenRound_BC = new System.Windows.Forms.ToolStripMenuItem();
+            this.R1_Timer = new System.Windows.Forms.Timer(this.components);
+            this.R2_Timer = new System.Windows.Forms.Timer(this.components);
+            this.R_GT_Timer = new System.Windows.Forms.Timer(this.components);
+            this.R_BC_Timer = new System.Windows.Forms.Timer(this.components);
+            this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.clickColor5 = new System.Windows.Forms.PictureBox();
+            this.clickColor4 = new System.Windows.Forms.PictureBox();
+            this.clickColor3 = new System.Windows.Forms.PictureBox();
+            this.clickColor2 = new System.Windows.Forms.PictureBox();
+            this.clickColor1 = new System.Windows.Forms.PictureBox();
+            this.R1_BtnTrue5 = new System.Windows.Forms.PictureBox();
+            this.R1_BtnTrue4 = new System.Windows.Forms.PictureBox();
+            this.R1_BtnTrue3 = new System.Windows.Forms.PictureBox();
+            this.R1_BtnTrue2 = new System.Windows.Forms.PictureBox();
+            this.R1_BtnTrue1 = new System.Windows.Forms.PictureBox();
+            this.R2_BtnTrue6 = new System.Windows.Forms.PictureBox();
+            this.R2_BtnTrue5 = new System.Windows.Forms.PictureBox();
+            this.R2_BtnTrue4 = new System.Windows.Forms.PictureBox();
+            this.R2_BtnTrue3 = new System.Windows.Forms.PictureBox();
+            this.R2_BtnTrue2 = new System.Windows.Forms.PictureBox();
+            this.R2_BtnTrue1 = new System.Windows.Forms.PictureBox();
+            this.R_BC_BtnTrue6 = new System.Windows.Forms.PictureBox();
+            this.R_BC_BtnStar6 = new System.Windows.Forms.PictureBox();
+            this.R_BC_BtnBell6 = new System.Windows.Forms.PictureBox();
+            this.R_BC_BtnTrue_x2_6 = new System.Windows.Forms.PictureBox();
+            this.R_BC_BtnTrue_chia2_6 = new System.Windows.Forms.PictureBox();
             this.R_BC_BtnTrue5 = new System.Windows.Forms.PictureBox();
             this.R_BC_BtnTrue4 = new System.Windows.Forms.PictureBox();
             this.R_BC_BtnTrue3 = new System.Windows.Forms.PictureBox();
@@ -1657,25 +1676,6 @@
             this.R_BC_BtnTrue_chia2_1 = new System.Windows.Forms.PictureBox();
             this.R_BC_BtnTrue_x2_1 = new System.Windows.Forms.PictureBox();
             this.R_BC_BtnTrue1 = new System.Windows.Forms.PictureBox();
-            this.MenuRight = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.cmdScreenTeam = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmdScreenJudges = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmdScreenJudges1doi = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmdScreenRound1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmdScreenRound2 = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmdScreenRound_GT = new System.Windows.Forms.ToolStripMenuItem();
-            this.startToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pauseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.stopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.change2MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.change3MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.change5MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.change7MinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmdScreenRound_BC = new System.Windows.Forms.ToolStripMenuItem();
-            this.R1_Timer = new System.Windows.Forms.Timer(this.components);
-            this.R2_Timer = new System.Windows.Forms.Timer(this.components);
-            this.R_GT_Timer = new System.Windows.Forms.Timer(this.components);
-            this.R_BC_Timer = new System.Windows.Forms.Timer(this.components);
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2.SuspendLayout();
             this.pp.SuspendLayout();
@@ -1683,20 +1683,8 @@
             this.tabControl2.SuspendLayout();
             this.tabTeamConfig.SuspendLayout();
             this.panel4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.tabJudgesConfig.SuspendLayout();
             this.panel39.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.tabRound1Config.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.C2_GridKhoiDong)).BeginInit();
             this.tabRound2Config.SuspendLayout();
@@ -1714,22 +1702,7 @@
             this.panel6.SuspendLayout();
             this.panel26.SuspendLayout();
             this.panel27.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue1)).BeginInit();
             this.tabRound2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue2)).BeginInit();
             this.pn5.SuspendLayout();
             this.pn4.SuspendLayout();
             this.pn3.SuspendLayout();
@@ -1749,7 +1722,6 @@
             this.panel23.SuspendLayout();
             this.panel24.SuspendLayout();
             this.panel25.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue1)).BeginInit();
             this.tabGioiThieu.SuspendLayout();
             this.panel15.SuspendLayout();
             this.panel28.SuspendLayout();
@@ -1764,11 +1736,6 @@
             this.panel37.SuspendLayout();
             this.panel38.SuspendLayout();
             this.tabBamChuong.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnStar6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnBell6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_x2_6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_chia2_6)).BeginInit();
             this.panel40.SuspendLayout();
             this.panel52.SuspendLayout();
             this.panel53.SuspendLayout();
@@ -1783,6 +1750,40 @@
             this.panel49.SuspendLayout();
             this.panel50.SuspendLayout();
             this.panel51.SuspendLayout();
+            this.MenuRight.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnStar6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnBell6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_x2_6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_chia2_6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue3)).BeginInit();
@@ -1808,16 +1809,15 @@
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_chia2_1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_x2_1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue1)).BeginInit();
-            this.MenuRight.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.pp);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 107);
+            this.panel2.Location = new System.Drawing.Point(0, 108);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1284, 642);
+            this.panel2.Size = new System.Drawing.Size(1284, 641);
             this.panel2.TabIndex = 2;
             // 
             // pp
@@ -1833,7 +1833,7 @@
             this.pp.Multiline = true;
             this.pp.Name = "pp";
             this.pp.SelectedIndex = 0;
-            this.pp.Size = new System.Drawing.Size(1284, 642);
+            this.pp.Size = new System.Drawing.Size(1284, 641);
             this.pp.TabIndex = 0;
             this.pp.SelectedIndexChanged += new System.EventHandler(this.tabControl1_SelectedIndexChanged);
             // 
@@ -1841,9 +1841,9 @@
             // 
             this.tabAdmin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(70)))), ((int)(((byte)(152)))));
             this.tabAdmin.Controls.Add(this.tabControl2);
-            this.tabAdmin.Location = new System.Drawing.Point(29, 4);
+            this.tabAdmin.Location = new System.Drawing.Point(64, 4);
             this.tabAdmin.Name = "tabAdmin";
-            this.tabAdmin.Size = new System.Drawing.Size(1251, 634);
+            this.tabAdmin.Size = new System.Drawing.Size(1216, 633);
             this.tabAdmin.TabIndex = 0;
             this.tabAdmin.Text = "CẤU HÌNH";
             // 
@@ -1858,7 +1858,7 @@
             this.tabControl2.Location = new System.Drawing.Point(0, 0);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(1251, 634);
+            this.tabControl2.Size = new System.Drawing.Size(1216, 633);
             this.tabControl2.TabIndex = 0;
             this.tabControl2.SelectedIndexChanged += new System.EventHandler(this.tabControl2_SelectedIndexChanged);
             // 
@@ -1870,11 +1870,11 @@
             this.tabTeamConfig.Controls.Add(this.panel4);
             this.tabTeamConfig.Controls.Add(this.label2);
             this.tabTeamConfig.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabTeamConfig.Location = new System.Drawing.Point(4, 32);
+            this.tabTeamConfig.Location = new System.Drawing.Point(4, 37);
             this.tabTeamConfig.Margin = new System.Windows.Forms.Padding(0);
             this.tabTeamConfig.Name = "tabTeamConfig";
             this.tabTeamConfig.Padding = new System.Windows.Forms.Padding(3);
-            this.tabTeamConfig.Size = new System.Drawing.Size(1243, 598);
+            this.tabTeamConfig.Size = new System.Drawing.Size(1208, 592);
             this.tabTeamConfig.TabIndex = 0;
             this.tabTeamConfig.Text = "DANH SÁCH ĐỘI";
             // 
@@ -1911,7 +1911,7 @@
             "10"});
             this.C1_cbxGame.Location = new System.Drawing.Point(33, 34);
             this.C1_cbxGame.Name = "C1_cbxGame";
-            this.C1_cbxGame.Size = new System.Drawing.Size(100, 28);
+            this.C1_cbxGame.Size = new System.Drawing.Size(100, 33);
             this.C1_cbxGame.TabIndex = 4;
             // 
             // panel4
@@ -1932,23 +1932,10 @@
             this.panel4.Controls.Add(this.C1_txtTeam1);
             this.panel4.Controls.Add(this.pictureBox5);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(3, 99);
+            this.panel4.Location = new System.Drawing.Point(3, 153);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(1237, 496);
+            this.panel4.Size = new System.Drawing.Size(1202, 436);
             this.panel4.TabIndex = 3;
-            // 
-            // pictureBox11
-            // 
-            this.pictureBox11.BackColor = System.Drawing.Color.White;
-            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox11.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox11.Location = new System.Drawing.Point(1051, 82);
-            this.pictureBox11.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(150, 170);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox11.TabIndex = 45;
-            this.pictureBox11.TabStop = false;
             // 
             // C1_txtTeam6
             // 
@@ -1965,58 +1952,6 @@
             this.C1_txtTeam6.TabIndex = 44;
             this.C1_txtTeam6.Text = "HỒNG HÀ";
             this.C1_txtTeam6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.BackColor = System.Drawing.Color.White;
-            this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox3.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox3.Location = new System.Drawing.Point(852, 82);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(150, 170);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 43;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.White;
-            this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox2.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox2.Location = new System.Drawing.Point(643, 82);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(150, 170);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 42;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackColor = System.Drawing.Color.White;
-            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox1.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox1.Location = new System.Drawing.Point(430, 82);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(150, 170);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 41;
-            this.pictureBox1.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.BackColor = System.Drawing.Color.White;
-            this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox4.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox4.Location = new System.Drawing.Point(227, 82);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(150, 170);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 40;
-            this.pictureBox4.TabStop = false;
             // 
             // C1_BtnSave
             // 
@@ -2114,19 +2049,6 @@
             this.C1_txtTeam1.Text = "HỒNG HÀ";
             this.C1_txtTeam1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // pictureBox5
-            // 
-            this.pictureBox5.BackColor = System.Drawing.Color.White;
-            this.pictureBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox5.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox5.Location = new System.Drawing.Point(30, 82);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(150, 170);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 29;
-            this.pictureBox5.TabStop = false;
-            // 
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
@@ -2134,7 +2056,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(3, 3);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(1237, 96);
+            this.label2.Size = new System.Drawing.Size(1202, 150);
             this.label2.TabIndex = 2;
             this.label2.Text = "THÔNG TIN ĐỘI";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -2143,9 +2065,9 @@
             // 
             this.tabJudgesConfig.Controls.Add(this.panel39);
             this.tabJudgesConfig.Controls.Add(this.label30);
-            this.tabJudgesConfig.Location = new System.Drawing.Point(4, 25);
+            this.tabJudgesConfig.Location = new System.Drawing.Point(4, 28);
             this.tabJudgesConfig.Name = "tabJudgesConfig";
-            this.tabJudgesConfig.Size = new System.Drawing.Size(1208, 605);
+            this.tabJudgesConfig.Size = new System.Drawing.Size(1890, 951);
             this.tabJudgesConfig.TabIndex = 3;
             this.tabJudgesConfig.Text = "DANH SÁCH BAN GIÁM KHẢO";
             // 
@@ -2207,9 +2129,9 @@
             this.panel39.Controls.Add(this.txtGK1);
             this.panel39.Controls.Add(this.pictureBox10);
             this.panel39.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel39.Location = new System.Drawing.Point(0, 96);
+            this.panel39.Location = new System.Drawing.Point(0, 188);
             this.panel39.Name = "panel39";
-            this.panel39.Size = new System.Drawing.Size(1208, 509);
+            this.panel39.Size = new System.Drawing.Size(2363, 1001);
             this.panel39.TabIndex = 5;
             // 
             // txtMarkGK66
@@ -2388,19 +2310,6 @@
             this.txtMarkGK16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtMarkGK16.Click += new System.EventHandler(this.btnRefreshGK_Click);
             // 
-            // pictureBox12
-            // 
-            this.pictureBox12.BackColor = System.Drawing.Color.White;
-            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox12.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox12.Location = new System.Drawing.Point(1023, 0);
-            this.pictureBox12.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(127, 107);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox12.TabIndex = 51;
-            this.pictureBox12.TabStop = false;
-            // 
             // txtGK6
             // 
             this.txtGK6.BackColor = System.Drawing.Color.White;
@@ -2421,7 +2330,7 @@
             // 
             this.txtNameTeamBGK.Location = new System.Drawing.Point(31, 239);
             this.txtNameTeamBGK.Name = "txtNameTeamBGK";
-            this.txtNameTeamBGK.Size = new System.Drawing.Size(224, 27);
+            this.txtNameTeamBGK.Size = new System.Drawing.Size(350, 40);
             this.txtNameTeamBGK.TabIndex = 49;
             // 
             // label33
@@ -2429,7 +2338,7 @@
             this.label33.AutoSize = true;
             this.label33.Location = new System.Drawing.Point(27, 209);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(71, 20);
+            this.label33.Size = new System.Drawing.Size(90, 26);
             this.label33.TabIndex = 48;
             this.label33.Text = "Tên đội";
             // 
@@ -2882,58 +2791,6 @@
             this.txtMarkGK11.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtMarkGK11.Click += new System.EventHandler(this.btnRefreshGK_Click);
             // 
-            // pictureBox6
-            // 
-            this.pictureBox6.BackColor = System.Drawing.Color.White;
-            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox6.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox6.Location = new System.Drawing.Point(879, 0);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(127, 107);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox6.TabIndex = 43;
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.BackColor = System.Drawing.Color.White;
-            this.pictureBox7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox7.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox7.Location = new System.Drawing.Point(734, 0);
-            this.pictureBox7.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(128, 107);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox7.TabIndex = 42;
-            this.pictureBox7.TabStop = false;
-            // 
-            // pictureBox8
-            // 
-            this.pictureBox8.BackColor = System.Drawing.Color.White;
-            this.pictureBox8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox8.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox8.Location = new System.Drawing.Point(589, 0);
-            this.pictureBox8.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(127, 107);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox8.TabIndex = 41;
-            this.pictureBox8.TabStop = false;
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.BackColor = System.Drawing.Color.White;
-            this.pictureBox9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox9.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox9.Location = new System.Drawing.Point(441, 0);
-            this.pictureBox9.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(127, 107);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox9.TabIndex = 40;
-            this.pictureBox9.TabStop = false;
-            // 
             // txtGK5
             // 
             this.txtGK5.BackColor = System.Drawing.Color.White;
@@ -3014,19 +2871,6 @@
             this.txtGK1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txtGK1.Click += new System.EventHandler(this.btnRefreshGK_Click);
             // 
-            // pictureBox10
-            // 
-            this.pictureBox10.BackColor = System.Drawing.Color.White;
-            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox10.Image = global::HoiThiDV.Properties.Resources.person_default;
-            this.pictureBox10.Location = new System.Drawing.Point(294, 0);
-            this.pictureBox10.Margin = new System.Windows.Forms.Padding(0);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(128, 107);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox10.TabIndex = 29;
-            this.pictureBox10.TabStop = false;
-            // 
             // label30
             // 
             this.label30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
@@ -3034,7 +2878,7 @@
             this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label30.Location = new System.Drawing.Point(0, 0);
             this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(1208, 96);
+            this.label30.Size = new System.Drawing.Size(2363, 150);
             this.label30.TabIndex = 4;
             this.label30.Text = "BAN GIÁM KHẢO";
             this.label30.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -3056,10 +2900,10 @@
             this.tabRound1Config.Controls.Add(this.label61);
             this.tabRound1Config.Controls.Add(this.C2_CbQuestNum);
             this.tabRound1Config.Controls.Add(this.label60);
-            this.tabRound1Config.Location = new System.Drawing.Point(4, 25);
+            this.tabRound1Config.Location = new System.Drawing.Point(4, 28);
             this.tabRound1Config.Margin = new System.Windows.Forms.Padding(0);
             this.tabRound1Config.Name = "tabRound1Config";
-            this.tabRound1Config.Size = new System.Drawing.Size(1208, 605);
+            this.tabRound1Config.Size = new System.Drawing.Size(1890, 951);
             this.tabRound1Config.TabIndex = 1;
             this.tabRound1Config.Text = "Cấu hình phần thi";
             // 
@@ -3068,7 +2912,7 @@
             this.label27.AutoSize = true;
             this.label27.Location = new System.Drawing.Point(759, 203);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(202, 20);
+            this.label27.Size = new System.Drawing.Size(321, 33);
             this.label27.TabIndex = 42;
             this.label27.Text = "Chọn cấu hình phần thi";
             // 
@@ -3077,7 +2921,7 @@
             this.cboCauHinhRound.FormattingEnabled = true;
             this.cboCauHinhRound.Location = new System.Drawing.Point(968, 195);
             this.cboCauHinhRound.Name = "cboCauHinhRound";
-            this.cboCauHinhRound.Size = new System.Drawing.Size(230, 28);
+            this.cboCauHinhRound.Size = new System.Drawing.Size(230, 33);
             this.cboCauHinhRound.TabIndex = 41;
             this.cboCauHinhRound.SelectedIndexChanged += new System.EventHandler(this.cboCauHinhRound_SelectedIndexChanged);
             // 
@@ -3139,7 +2983,7 @@
             this.C2_TxtFileName.Enabled = false;
             this.C2_TxtFileName.Location = new System.Drawing.Point(130, 194);
             this.C2_TxtFileName.Name = "C2_TxtFileName";
-            this.C2_TxtFileName.Size = new System.Drawing.Size(363, 27);
+            this.C2_TxtFileName.Size = new System.Drawing.Size(568, 40);
             this.C2_TxtFileName.TabIndex = 37;
             // 
             // label1
@@ -3148,7 +2992,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(25, 194);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(62, 20);
+            this.label1.Size = new System.Drawing.Size(100, 33);
             this.label1.TabIndex = 36;
             this.label1.Text = "Import";
             // 
@@ -3173,7 +3017,7 @@
             this.C2_TxtQuestAnswer.Location = new System.Drawing.Point(130, 159);
             this.C2_TxtQuestAnswer.Multiline = true;
             this.C2_TxtQuestAnswer.Name = "C2_TxtQuestAnswer";
-            this.C2_TxtQuestAnswer.Size = new System.Drawing.Size(1068, 30);
+            this.C2_TxtQuestAnswer.Size = new System.Drawing.Size(1669, 38);
             this.C2_TxtQuestAnswer.TabIndex = 34;
             // 
             // C2_TxtQuestContent
@@ -3190,7 +3034,7 @@
             this.label28.ForeColor = System.Drawing.Color.White;
             this.label28.Location = new System.Drawing.Point(25, 163);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(68, 20);
+            this.label28.Size = new System.Drawing.Size(110, 33);
             this.label28.TabIndex = 33;
             this.label28.Text = "Đáp án";
             // 
@@ -3200,7 +3044,7 @@
             this.label61.ForeColor = System.Drawing.Color.White;
             this.label61.Location = new System.Drawing.Point(25, 65);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(83, 20);
+            this.label61.Size = new System.Drawing.Size(134, 33);
             this.label61.TabIndex = 33;
             this.label61.Text = "Nội dung";
             // 
@@ -3225,7 +3069,7 @@
             "15"});
             this.C2_CbQuestNum.Location = new System.Drawing.Point(130, 16);
             this.C2_CbQuestNum.Name = "C2_CbQuestNum";
-            this.C2_CbQuestNum.Size = new System.Drawing.Size(121, 28);
+            this.C2_CbQuestNum.Size = new System.Drawing.Size(121, 33);
             this.C2_CbQuestNum.TabIndex = 32;
             // 
             // label60
@@ -3234,7 +3078,7 @@
             this.label60.ForeColor = System.Drawing.Color.White;
             this.label60.Location = new System.Drawing.Point(25, 19);
             this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(42, 20);
+            this.label60.Size = new System.Drawing.Size(69, 33);
             this.label60.TabIndex = 31;
             this.label60.Text = "Câu";
             // 
@@ -3883,10 +3727,10 @@
             this.tabRound2Config.Controls.Add(this.label4);
             this.tabRound2Config.Controls.Add(this.C3_CbQuestNum);
             this.tabRound2Config.Controls.Add(this.label5);
-            this.tabRound2Config.Location = new System.Drawing.Point(4, 25);
+            this.tabRound2Config.Location = new System.Drawing.Point(4, 28);
             this.tabRound2Config.Margin = new System.Windows.Forms.Padding(0);
             this.tabRound2Config.Name = "tabRound2Config";
-            this.tabRound2Config.Size = new System.Drawing.Size(1208, 605);
+            this.tabRound2Config.Size = new System.Drawing.Size(1890, 951);
             this.tabRound2Config.TabIndex = 2;
             this.tabRound2Config.Text = "Cấu hình Giải ô chữ";
             // 
@@ -3894,7 +3738,7 @@
             // 
             this.C3_txtHideRow.Location = new System.Drawing.Point(555, 10);
             this.C3_txtHideRow.Name = "C3_txtHideRow";
-            this.C3_txtHideRow.Size = new System.Drawing.Size(225, 27);
+            this.C3_txtHideRow.Size = new System.Drawing.Size(351, 40);
             this.C3_txtHideRow.TabIndex = 1891;
             // 
             // label64
@@ -11964,27 +11808,27 @@
             this.C3_GridTangToc.AllowUserToAddRows = false;
             this.C3_GridTangToc.AllowUserToResizeRows = false;
             this.C3_GridTangToc.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(33)))), ((int)(((byte)(39)))));
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.C3_GridTangToc.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(33)))), ((int)(((byte)(39)))));
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.C3_GridTangToc.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.C3_GridTangToc.ColumnHeadersHeight = 29;
             this.C3_GridTangToc.Location = new System.Drawing.Point(14, 112);
             this.C3_GridTangToc.MultiSelect = false;
             this.C3_GridTangToc.Name = "C3_GridTangToc";
             this.C3_GridTangToc.ReadOnly = true;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(33)))), ((int)(((byte)(39)))));
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(33)))), ((int)(((byte)(39)))));
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.C3_GridTangToc.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(33)))), ((int)(((byte)(39)))));
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(33)))), ((int)(((byte)(39)))));
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.C3_GridTangToc.RowHeadersDefaultCellStyle = dataGridViewCellStyle6;
             this.C3_GridTangToc.RowHeadersVisible = false;
             this.C3_GridTangToc.RowHeadersWidth = 51;
             this.C3_GridTangToc.RowTemplate.Height = 29;
@@ -12048,7 +11892,7 @@
             this.C3_TxtFile.Enabled = false;
             this.C3_TxtFile.Location = new System.Drawing.Point(108, 78);
             this.C3_TxtFile.Name = "C3_TxtFile";
-            this.C3_TxtFile.Size = new System.Drawing.Size(774, 27);
+            this.C3_TxtFile.Size = new System.Drawing.Size(1210, 40);
             this.C3_TxtFile.TabIndex = 46;
             // 
             // label3
@@ -12057,7 +11901,7 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(20, 82);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(62, 20);
+            this.label3.Size = new System.Drawing.Size(100, 33);
             this.label3.TabIndex = 45;
             this.label3.Text = "Import";
             // 
@@ -12098,7 +11942,7 @@
             this.C3_TxtQuestContent.Location = new System.Drawing.Point(108, 43);
             this.C3_TxtQuestContent.Multiline = true;
             this.C3_TxtQuestContent.Name = "C3_TxtQuestContent";
-            this.C3_TxtQuestContent.Size = new System.Drawing.Size(1093, 29);
+            this.C3_TxtQuestContent.Size = new System.Drawing.Size(1708, 36);
             this.C3_TxtQuestContent.TabIndex = 43;
             // 
             // label4
@@ -12107,7 +11951,7 @@
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(20, 45);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(83, 20);
+            this.label4.Size = new System.Drawing.Size(134, 33);
             this.label4.TabIndex = 42;
             this.label4.Text = "Nội dung";
             // 
@@ -12137,7 +11981,7 @@
             "20"});
             this.C3_CbQuestNum.Location = new System.Drawing.Point(108, 6);
             this.C3_CbQuestNum.Name = "C3_CbQuestNum";
-            this.C3_CbQuestNum.Size = new System.Drawing.Size(121, 28);
+            this.C3_CbQuestNum.Size = new System.Drawing.Size(121, 33);
             this.C3_CbQuestNum.TabIndex = 41;
             // 
             // label5
@@ -12146,7 +11990,7 @@
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(23, 10);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 20);
+            this.label5.Size = new System.Drawing.Size(69, 33);
             this.label5.TabIndex = 40;
             this.label5.Text = "Câu";
             // 
@@ -12205,10 +12049,10 @@
             this.tabRound1.Controls.Add(this.R1_BtnTrue3);
             this.tabRound1.Controls.Add(this.R1_BtnTrue2);
             this.tabRound1.Controls.Add(this.R1_BtnTrue1);
-            this.tabRound1.Location = new System.Drawing.Point(29, 4);
+            this.tabRound1.Location = new System.Drawing.Point(64, 4);
             this.tabRound1.Margin = new System.Windows.Forms.Padding(0);
             this.tabRound1.Name = "tabRound1";
-            this.tabRound1.Size = new System.Drawing.Size(1251, 634);
+            this.tabRound1.Size = new System.Drawing.Size(1216, 633);
             this.tabRound1.TabIndex = 1;
             this.tabRound1.Text = "KHỞI ĐỘNG";
             // 
@@ -12269,7 +12113,7 @@
             this.cboDiemResetR1.FormattingEnabled = true;
             this.cboDiemResetR1.Location = new System.Drawing.Point(329, 505);
             this.cboDiemResetR1.Name = "cboDiemResetR1";
-            this.cboDiemResetR1.Size = new System.Drawing.Size(78, 28);
+            this.cboDiemResetR1.Size = new System.Drawing.Size(78, 33);
             this.cboDiemResetR1.TabIndex = 1048;
             // 
             // btnChooseRoundVong1
@@ -12294,7 +12138,7 @@
             this.cboChooseRoundVong1.FormattingEnabled = true;
             this.cboChooseRoundVong1.Location = new System.Drawing.Point(326, 542);
             this.cboChooseRoundVong1.Name = "cboChooseRoundVong1";
-            this.cboChooseRoundVong1.Size = new System.Drawing.Size(269, 28);
+            this.cboChooseRoundVong1.Size = new System.Drawing.Size(269, 33);
             this.cboChooseRoundVong1.TabIndex = 1046;
             // 
             // R1_BtnShowAnswerCT
@@ -12320,7 +12164,7 @@
             this.cboBonusPoint5.FormattingEnabled = true;
             this.cboBonusPoint5.Location = new System.Drawing.Point(390, 327);
             this.cboBonusPoint5.Name = "cboBonusPoint5";
-            this.cboBonusPoint5.Size = new System.Drawing.Size(45, 28);
+            this.cboBonusPoint5.Size = new System.Drawing.Size(45, 33);
             this.cboBonusPoint5.TabIndex = 1007;
             this.cboBonusPoint5.Visible = false;
             // 
@@ -12330,7 +12174,7 @@
             this.cboBonusPoint4.FormattingEnabled = true;
             this.cboBonusPoint4.Location = new System.Drawing.Point(391, 248);
             this.cboBonusPoint4.Name = "cboBonusPoint4";
-            this.cboBonusPoint4.Size = new System.Drawing.Size(45, 28);
+            this.cboBonusPoint4.Size = new System.Drawing.Size(45, 33);
             this.cboBonusPoint4.TabIndex = 1007;
             this.cboBonusPoint4.Visible = false;
             // 
@@ -12340,7 +12184,7 @@
             this.cboBonusPoint3.FormattingEnabled = true;
             this.cboBonusPoint3.Location = new System.Drawing.Point(391, 171);
             this.cboBonusPoint3.Name = "cboBonusPoint3";
-            this.cboBonusPoint3.Size = new System.Drawing.Size(45, 28);
+            this.cboBonusPoint3.Size = new System.Drawing.Size(45, 33);
             this.cboBonusPoint3.TabIndex = 1007;
             this.cboBonusPoint3.Visible = false;
             // 
@@ -12350,7 +12194,7 @@
             this.cboBonusPoint2.FormattingEnabled = true;
             this.cboBonusPoint2.Location = new System.Drawing.Point(391, 90);
             this.cboBonusPoint2.Name = "cboBonusPoint2";
-            this.cboBonusPoint2.Size = new System.Drawing.Size(45, 28);
+            this.cboBonusPoint2.Size = new System.Drawing.Size(45, 33);
             this.cboBonusPoint2.TabIndex = 1007;
             this.cboBonusPoint2.Visible = false;
             // 
@@ -12360,7 +12204,7 @@
             this.cboBonusPoint1.FormattingEnabled = true;
             this.cboBonusPoint1.Location = new System.Drawing.Point(390, 9);
             this.cboBonusPoint1.Name = "cboBonusPoint1";
-            this.cboBonusPoint1.Size = new System.Drawing.Size(45, 28);
+            this.cboBonusPoint1.Size = new System.Drawing.Size(45, 33);
             this.cboBonusPoint1.TabIndex = 1006;
             this.cboBonusPoint1.Visible = false;
             // 
@@ -12812,7 +12656,7 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(252, 634);
+            this.panel3.Size = new System.Drawing.Size(315, 633);
             this.panel3.TabIndex = 0;
             // 
             // panel13
@@ -12823,7 +12667,7 @@
             this.panel13.Location = new System.Drawing.Point(0, 395);
             this.panel13.Name = "panel13";
             this.panel13.Padding = new System.Windows.Forms.Padding(18, 10, 18, 10);
-            this.panel13.Size = new System.Drawing.Size(252, 239);
+            this.panel13.Size = new System.Drawing.Size(315, 238);
             this.panel13.TabIndex = 18;
             // 
             // label29
@@ -12832,7 +12676,7 @@
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.Location = new System.Drawing.Point(46, 1);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(144, 31);
+            this.label29.Size = new System.Drawing.Size(180, 39);
             this.label29.TabIndex = 3;
             this.label29.Text = "Khởi động";
             // 
@@ -12855,7 +12699,7 @@
             this.panel11.Location = new System.Drawing.Point(0, 316);
             this.panel11.Name = "panel11";
             this.panel11.Padding = new System.Windows.Forms.Padding(4);
-            this.panel11.Size = new System.Drawing.Size(252, 79);
+            this.panel11.Size = new System.Drawing.Size(315, 79);
             this.panel11.TabIndex = 17;
             // 
             // panel12
@@ -12865,7 +12709,7 @@
             this.panel12.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel12.Location = new System.Drawing.Point(4, 4);
             this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(244, 71);
+            this.panel12.Size = new System.Drawing.Size(307, 71);
             this.panel12.TabIndex = 5;
             // 
             // R1_LblPoint5
@@ -12877,7 +12721,7 @@
             this.R1_LblPoint5.ForeColor = System.Drawing.Color.White;
             this.R1_LblPoint5.Location = new System.Drawing.Point(149, 0);
             this.R1_LblPoint5.Name = "R1_LblPoint5";
-            this.R1_LblPoint5.Size = new System.Drawing.Size(95, 71);
+            this.R1_LblPoint5.Size = new System.Drawing.Size(158, 71);
             this.R1_LblPoint5.TabIndex = 1;
             this.R1_LblPoint5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R1_LblPoint5.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -12902,7 +12746,7 @@
             this.panel9.Location = new System.Drawing.Point(0, 237);
             this.panel9.Name = "panel9";
             this.panel9.Padding = new System.Windows.Forms.Padding(4);
-            this.panel9.Size = new System.Drawing.Size(252, 79);
+            this.panel9.Size = new System.Drawing.Size(315, 79);
             this.panel9.TabIndex = 16;
             // 
             // panel10
@@ -12912,7 +12756,7 @@
             this.panel10.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel10.Location = new System.Drawing.Point(4, 4);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(244, 71);
+            this.panel10.Size = new System.Drawing.Size(307, 71);
             this.panel10.TabIndex = 5;
             // 
             // R1_LblPoint4
@@ -12924,7 +12768,7 @@
             this.R1_LblPoint4.ForeColor = System.Drawing.Color.White;
             this.R1_LblPoint4.Location = new System.Drawing.Point(149, 0);
             this.R1_LblPoint4.Name = "R1_LblPoint4";
-            this.R1_LblPoint4.Size = new System.Drawing.Size(95, 71);
+            this.R1_LblPoint4.Size = new System.Drawing.Size(158, 71);
             this.R1_LblPoint4.TabIndex = 1;
             this.R1_LblPoint4.Text = "100";
             this.R1_LblPoint4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -12951,7 +12795,7 @@
             this.panel7.Location = new System.Drawing.Point(0, 158);
             this.panel7.Name = "panel7";
             this.panel7.Padding = new System.Windows.Forms.Padding(4);
-            this.panel7.Size = new System.Drawing.Size(252, 79);
+            this.panel7.Size = new System.Drawing.Size(315, 79);
             this.panel7.TabIndex = 15;
             // 
             // panel8
@@ -12961,7 +12805,7 @@
             this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel8.Location = new System.Drawing.Point(4, 4);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(244, 71);
+            this.panel8.Size = new System.Drawing.Size(307, 71);
             this.panel8.TabIndex = 5;
             // 
             // R1_LblPoint3
@@ -12973,7 +12817,7 @@
             this.R1_LblPoint3.ForeColor = System.Drawing.Color.White;
             this.R1_LblPoint3.Location = new System.Drawing.Point(149, 0);
             this.R1_LblPoint3.Name = "R1_LblPoint3";
-            this.R1_LblPoint3.Size = new System.Drawing.Size(95, 71);
+            this.R1_LblPoint3.Size = new System.Drawing.Size(158, 71);
             this.R1_LblPoint3.TabIndex = 1;
             this.R1_LblPoint3.Text = "100";
             this.R1_LblPoint3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -13000,7 +12844,7 @@
             this.panel5.Location = new System.Drawing.Point(0, 79);
             this.panel5.Name = "panel5";
             this.panel5.Padding = new System.Windows.Forms.Padding(4);
-            this.panel5.Size = new System.Drawing.Size(252, 79);
+            this.panel5.Size = new System.Drawing.Size(315, 79);
             this.panel5.TabIndex = 14;
             // 
             // panel6
@@ -13010,7 +12854,7 @@
             this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel6.Location = new System.Drawing.Point(4, 4);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(244, 71);
+            this.panel6.Size = new System.Drawing.Size(307, 71);
             this.panel6.TabIndex = 5;
             // 
             // R1_LblPoint2
@@ -13022,7 +12866,7 @@
             this.R1_LblPoint2.ForeColor = System.Drawing.Color.White;
             this.R1_LblPoint2.Location = new System.Drawing.Point(149, 0);
             this.R1_LblPoint2.Name = "R1_LblPoint2";
-            this.R1_LblPoint2.Size = new System.Drawing.Size(95, 71);
+            this.R1_LblPoint2.Size = new System.Drawing.Size(158, 71);
             this.R1_LblPoint2.TabIndex = 1;
             this.R1_LblPoint2.Text = "100";
             this.R1_LblPoint2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -13049,7 +12893,7 @@
             this.panel26.Location = new System.Drawing.Point(0, 0);
             this.panel26.Name = "panel26";
             this.panel26.Padding = new System.Windows.Forms.Padding(4);
-            this.panel26.Size = new System.Drawing.Size(252, 79);
+            this.panel26.Size = new System.Drawing.Size(315, 79);
             this.panel26.TabIndex = 13;
             // 
             // panel27
@@ -13059,7 +12903,7 @@
             this.panel27.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel27.Location = new System.Drawing.Point(4, 4);
             this.panel27.Name = "panel27";
-            this.panel27.Size = new System.Drawing.Size(244, 71);
+            this.panel27.Size = new System.Drawing.Size(307, 71);
             this.panel27.TabIndex = 5;
             // 
             // R1_LblPoint1
@@ -13071,7 +12915,7 @@
             this.R1_LblPoint1.ForeColor = System.Drawing.Color.White;
             this.R1_LblPoint1.Location = new System.Drawing.Point(149, 0);
             this.R1_LblPoint1.Name = "R1_LblPoint1";
-            this.R1_LblPoint1.Size = new System.Drawing.Size(95, 71);
+            this.R1_LblPoint1.Size = new System.Drawing.Size(158, 71);
             this.R1_LblPoint1.TabIndex = 1;
             this.R1_LblPoint1.Text = "100";
             this.R1_LblPoint1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -13091,159 +12935,19 @@
             this.R1_LblTeam1.Text = "Đội 1";
             this.R1_LblTeam1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // clickColor5
-            // 
-            this.clickColor5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.clickColor5.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
-            this.clickColor5.Location = new System.Drawing.Point(442, 327);
-            this.clickColor5.Name = "clickColor5";
-            this.clickColor5.Size = new System.Drawing.Size(33, 32);
-            this.clickColor5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.clickColor5.TabIndex = 1017;
-            this.clickColor5.TabStop = false;
-            this.clickColor5.Visible = false;
-            this.clickColor5.Click += new System.EventHandler(this.clickColor5_Click);
-            this.clickColor5.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
-            // 
-            // clickColor4
-            // 
-            this.clickColor4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.clickColor4.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
-            this.clickColor4.Location = new System.Drawing.Point(442, 248);
-            this.clickColor4.Name = "clickColor4";
-            this.clickColor4.Size = new System.Drawing.Size(33, 32);
-            this.clickColor4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.clickColor4.TabIndex = 1016;
-            this.clickColor4.TabStop = false;
-            this.clickColor4.Visible = false;
-            this.clickColor4.Click += new System.EventHandler(this.clickColor4_Click);
-            this.clickColor4.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
-            // 
-            // clickColor3
-            // 
-            this.clickColor3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.clickColor3.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
-            this.clickColor3.Location = new System.Drawing.Point(442, 171);
-            this.clickColor3.Name = "clickColor3";
-            this.clickColor3.Size = new System.Drawing.Size(33, 32);
-            this.clickColor3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.clickColor3.TabIndex = 1015;
-            this.clickColor3.TabStop = false;
-            this.clickColor3.Visible = false;
-            this.clickColor3.Click += new System.EventHandler(this.clickColor3_Click);
-            this.clickColor3.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
-            // 
-            // clickColor2
-            // 
-            this.clickColor2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.clickColor2.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
-            this.clickColor2.Location = new System.Drawing.Point(442, 90);
-            this.clickColor2.Name = "clickColor2";
-            this.clickColor2.Size = new System.Drawing.Size(33, 32);
-            this.clickColor2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.clickColor2.TabIndex = 1014;
-            this.clickColor2.TabStop = false;
-            this.clickColor2.Visible = false;
-            this.clickColor2.Click += new System.EventHandler(this.clickColor2_Click);
-            this.clickColor2.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
-            // 
-            // clickColor1
-            // 
-            this.clickColor1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.clickColor1.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
-            this.clickColor1.Location = new System.Drawing.Point(442, 9);
-            this.clickColor1.Name = "clickColor1";
-            this.clickColor1.Size = new System.Drawing.Size(33, 32);
-            this.clickColor1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.clickColor1.TabIndex = 1013;
-            this.clickColor1.TabStop = false;
-            this.clickColor1.Visible = false;
-            this.clickColor1.Click += new System.EventHandler(this.clickColor1_Click_1);
-            this.clickColor1.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
-            // 
-            // R1_BtnTrue5
-            // 
-            this.R1_BtnTrue5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R1_BtnTrue5.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R1_BtnTrue5.Location = new System.Drawing.Point(403, 359);
-            this.R1_BtnTrue5.Name = "R1_BtnTrue5";
-            this.R1_BtnTrue5.Size = new System.Drawing.Size(33, 32);
-            this.R1_BtnTrue5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R1_BtnTrue5.TabIndex = 962;
-            this.R1_BtnTrue5.TabStop = false;
-            this.R1_BtnTrue5.Visible = false;
-            this.R1_BtnTrue5.Click += new System.EventHandler(this.R1_BtnTrue5_Click);
-            // 
-            // R1_BtnTrue4
-            // 
-            this.R1_BtnTrue4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R1_BtnTrue4.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R1_BtnTrue4.Location = new System.Drawing.Point(403, 279);
-            this.R1_BtnTrue4.Name = "R1_BtnTrue4";
-            this.R1_BtnTrue4.Size = new System.Drawing.Size(33, 32);
-            this.R1_BtnTrue4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R1_BtnTrue4.TabIndex = 961;
-            this.R1_BtnTrue4.TabStop = false;
-            this.R1_BtnTrue4.Visible = false;
-            this.R1_BtnTrue4.Click += new System.EventHandler(this.R1_BtnTrue4_Click);
-            // 
-            // R1_BtnTrue3
-            // 
-            this.R1_BtnTrue3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R1_BtnTrue3.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R1_BtnTrue3.Location = new System.Drawing.Point(403, 201);
-            this.R1_BtnTrue3.Name = "R1_BtnTrue3";
-            this.R1_BtnTrue3.Size = new System.Drawing.Size(33, 32);
-            this.R1_BtnTrue3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R1_BtnTrue3.TabIndex = 960;
-            this.R1_BtnTrue3.TabStop = false;
-            this.R1_BtnTrue3.Visible = false;
-            this.R1_BtnTrue3.Click += new System.EventHandler(this.R1_BtnTrue3_Click);
-            // 
-            // R1_BtnTrue2
-            // 
-            this.R1_BtnTrue2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R1_BtnTrue2.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R1_BtnTrue2.Location = new System.Drawing.Point(403, 119);
-            this.R1_BtnTrue2.Name = "R1_BtnTrue2";
-            this.R1_BtnTrue2.Size = new System.Drawing.Size(33, 32);
-            this.R1_BtnTrue2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R1_BtnTrue2.TabIndex = 959;
-            this.R1_BtnTrue2.TabStop = false;
-            this.R1_BtnTrue2.Visible = false;
-            this.R1_BtnTrue2.Click += new System.EventHandler(this.R1_BtnTrue2_Click);
-            // 
-            // R1_BtnTrue1
-            // 
-            this.R1_BtnTrue1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R1_BtnTrue1.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R1_BtnTrue1.Location = new System.Drawing.Point(403, 43);
-            this.R1_BtnTrue1.Name = "R1_BtnTrue1";
-            this.R1_BtnTrue1.Size = new System.Drawing.Size(33, 32);
-            this.R1_BtnTrue1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R1_BtnTrue1.TabIndex = 958;
-            this.R1_BtnTrue1.TabStop = false;
-            this.R1_BtnTrue1.Visible = false;
-            this.R1_BtnTrue1.Click += new System.EventHandler(this.R1_BtnTrue1_Click);
-            // 
             // tabRound2
             // 
             this.tabRound2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
             this.tabRound2.Controls.Add(this.R2_TimeAnswer6);
             this.tabRound2.Controls.Add(this.R2_TeamAnswer6);
-            this.tabRound2.Controls.Add(this.R2_BtnTrue6);
             this.tabRound2.Controls.Add(this.R2_TimeAnswer5);
             this.tabRound2.Controls.Add(this.R2_TeamAnswer5);
-            this.tabRound2.Controls.Add(this.R2_BtnTrue5);
             this.tabRound2.Controls.Add(this.R2_TimeAnswer4);
             this.tabRound2.Controls.Add(this.R2_TeamAnswer4);
-            this.tabRound2.Controls.Add(this.R2_BtnTrue4);
             this.tabRound2.Controls.Add(this.R2_TimeAnswer3);
             this.tabRound2.Controls.Add(this.R2_TeamAnswer3);
-            this.tabRound2.Controls.Add(this.R2_BtnTrue3);
             this.tabRound2.Controls.Add(this.R2_TimeAnswer2);
             this.tabRound2.Controls.Add(this.R2_TeamAnswer2);
-            this.tabRound2.Controls.Add(this.R2_BtnTrue2);
             this.tabRound2.Controls.Add(this.R2_btnUnlockTeam);
             this.tabRound2.Controls.Add(this.R2_btnLockTeam);
             this.tabRound2.Controls.Add(this.R2_BtnShowAnswerCT);
@@ -13722,11 +13426,16 @@
             this.tabRound2.Controls.Add(this.R2_Quest1);
             this.tabRound2.Controls.Add(this.R2_TeamAnswer1);
             this.tabRound2.Controls.Add(this.panel14);
+            this.tabRound2.Controls.Add(this.R2_BtnTrue6);
+            this.tabRound2.Controls.Add(this.R2_BtnTrue5);
+            this.tabRound2.Controls.Add(this.R2_BtnTrue4);
+            this.tabRound2.Controls.Add(this.R2_BtnTrue3);
+            this.tabRound2.Controls.Add(this.R2_BtnTrue2);
             this.tabRound2.Controls.Add(this.R2_BtnTrue1);
-            this.tabRound2.Location = new System.Drawing.Point(23, 4);
+            this.tabRound2.Location = new System.Drawing.Point(25, 4);
             this.tabRound2.Margin = new System.Windows.Forms.Padding(0);
             this.tabRound2.Name = "tabRound2";
-            this.tabRound2.Size = new System.Drawing.Size(1257, 634);
+            this.tabRound2.Size = new System.Drawing.Size(1970, 994);
             this.tabRound2.TabIndex = 2;
             this.tabRound2.Text = "Giải ô chữ";
             // 
@@ -13754,20 +13463,6 @@
             this.R2_TeamAnswer6.TabIndex = 1773;
             this.R2_TeamAnswer6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // R2_BtnTrue6
-            // 
-            this.R2_BtnTrue6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R2_BtnTrue6.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R2_BtnTrue6.Location = new System.Drawing.Point(307, 355);
-            this.R2_BtnTrue6.Name = "R2_BtnTrue6";
-            this.R2_BtnTrue6.Size = new System.Drawing.Size(33, 31);
-            this.R2_BtnTrue6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R2_BtnTrue6.TabIndex = 1772;
-            this.R2_BtnTrue6.TabStop = false;
-            this.R2_BtnTrue6.Visible = false;
-            this.R2_BtnTrue6.Click += new System.EventHandler(this.R2_BtnTrue6_Click);
-            this.R2_BtnTrue6.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
-            // 
             // R2_TimeAnswer5
             // 
             this.R2_TimeAnswer5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
@@ -13791,20 +13486,6 @@
             this.R2_TeamAnswer5.Size = new System.Drawing.Size(155, 23);
             this.R2_TeamAnswer5.TabIndex = 1770;
             this.R2_TeamAnswer5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // R2_BtnTrue5
-            // 
-            this.R2_BtnTrue5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R2_BtnTrue5.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R2_BtnTrue5.Location = new System.Drawing.Point(307, 291);
-            this.R2_BtnTrue5.Name = "R2_BtnTrue5";
-            this.R2_BtnTrue5.Size = new System.Drawing.Size(33, 31);
-            this.R2_BtnTrue5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R2_BtnTrue5.TabIndex = 1769;
-            this.R2_BtnTrue5.TabStop = false;
-            this.R2_BtnTrue5.Visible = false;
-            this.R2_BtnTrue5.Click += new System.EventHandler(this.R2_BtnTrue5_Click);
-            this.R2_BtnTrue5.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
             // 
             // R2_TimeAnswer4
             // 
@@ -13830,20 +13511,6 @@
             this.R2_TeamAnswer4.TabIndex = 1767;
             this.R2_TeamAnswer4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // R2_BtnTrue4
-            // 
-            this.R2_BtnTrue4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R2_BtnTrue4.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R2_BtnTrue4.Location = new System.Drawing.Point(308, 221);
-            this.R2_BtnTrue4.Name = "R2_BtnTrue4";
-            this.R2_BtnTrue4.Size = new System.Drawing.Size(33, 31);
-            this.R2_BtnTrue4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R2_BtnTrue4.TabIndex = 1766;
-            this.R2_BtnTrue4.TabStop = false;
-            this.R2_BtnTrue4.Visible = false;
-            this.R2_BtnTrue4.Click += new System.EventHandler(this.R2_BtnTrue4_Click);
-            this.R2_BtnTrue4.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
-            // 
             // R2_TimeAnswer3
             // 
             this.R2_TimeAnswer3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
@@ -13868,20 +13535,6 @@
             this.R2_TeamAnswer3.TabIndex = 1764;
             this.R2_TeamAnswer3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // R2_BtnTrue3
-            // 
-            this.R2_BtnTrue3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R2_BtnTrue3.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R2_BtnTrue3.Location = new System.Drawing.Point(309, 160);
-            this.R2_BtnTrue3.Name = "R2_BtnTrue3";
-            this.R2_BtnTrue3.Size = new System.Drawing.Size(33, 31);
-            this.R2_BtnTrue3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R2_BtnTrue3.TabIndex = 1763;
-            this.R2_BtnTrue3.TabStop = false;
-            this.R2_BtnTrue3.Visible = false;
-            this.R2_BtnTrue3.Click += new System.EventHandler(this.R2_BtnTrue3_Click);
-            this.R2_BtnTrue3.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
-            // 
             // R2_TimeAnswer2
             // 
             this.R2_TimeAnswer2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
@@ -13905,20 +13558,6 @@
             this.R2_TeamAnswer2.Size = new System.Drawing.Size(155, 23);
             this.R2_TeamAnswer2.TabIndex = 1761;
             this.R2_TeamAnswer2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // R2_BtnTrue2
-            // 
-            this.R2_BtnTrue2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R2_BtnTrue2.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R2_BtnTrue2.Location = new System.Drawing.Point(309, 95);
-            this.R2_BtnTrue2.Name = "R2_BtnTrue2";
-            this.R2_BtnTrue2.Size = new System.Drawing.Size(33, 31);
-            this.R2_BtnTrue2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R2_BtnTrue2.TabIndex = 1760;
-            this.R2_BtnTrue2.TabStop = false;
-            this.R2_BtnTrue2.Visible = false;
-            this.R2_BtnTrue2.Click += new System.EventHandler(this.R2_BtnTrue2_Click);
-            this.R2_BtnTrue2.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
             // 
             // R2_btnUnlockTeam
             // 
@@ -15898,14 +15537,14 @@
             // 
             this.R2_txtLockTeam.Location = new System.Drawing.Point(1229, 325);
             this.R2_txtLockTeam.Name = "R2_txtLockTeam";
-            this.R2_txtLockTeam.Size = new System.Drawing.Size(154, 27);
+            this.R2_txtLockTeam.Size = new System.Drawing.Size(241, 40);
             this.R2_txtLockTeam.TabIndex = 1752;
             // 
             // R2_txtRowShowHide
             // 
             this.R2_txtRowShowHide.Location = new System.Drawing.Point(1229, 463);
             this.R2_txtRowShowHide.Name = "R2_txtRowShowHide";
-            this.R2_txtRowShowHide.Size = new System.Drawing.Size(154, 27);
+            this.R2_txtRowShowHide.Size = new System.Drawing.Size(241, 40);
             this.R2_txtRowShowHide.TabIndex = 1752;
             // 
             // R2_btnHideRow
@@ -21630,7 +21269,7 @@
             this.panel14.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel14.Location = new System.Drawing.Point(0, 0);
             this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(186, 634);
+            this.panel14.Size = new System.Drawing.Size(233, 1243);
             this.panel14.TabIndex = 1;
             // 
             // panel54
@@ -21640,7 +21279,7 @@
             this.panel54.Location = new System.Drawing.Point(0, 325);
             this.panel54.Name = "panel54";
             this.panel54.Padding = new System.Windows.Forms.Padding(4);
-            this.panel54.Size = new System.Drawing.Size(186, 65);
+            this.panel54.Size = new System.Drawing.Size(233, 65);
             this.panel54.TabIndex = 1309;
             // 
             // panel55
@@ -21650,7 +21289,7 @@
             this.panel55.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel55.Location = new System.Drawing.Point(4, 4);
             this.panel55.Name = "panel55";
-            this.panel55.Size = new System.Drawing.Size(178, 57);
+            this.panel55.Size = new System.Drawing.Size(225, 57);
             this.panel55.TabIndex = 5;
             // 
             // R2_LblPoint6
@@ -21662,7 +21301,7 @@
             this.R2_LblPoint6.ForeColor = System.Drawing.Color.White;
             this.R2_LblPoint6.Location = new System.Drawing.Point(109, 0);
             this.R2_LblPoint6.Name = "R2_LblPoint6";
-            this.R2_LblPoint6.Size = new System.Drawing.Size(69, 57);
+            this.R2_LblPoint6.Size = new System.Drawing.Size(116, 57);
             this.R2_LblPoint6.TabIndex = 1;
             this.R2_LblPoint6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R2_LblPoint6.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -21699,7 +21338,7 @@
             this.label65.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(54)))), ((int)(((byte)(44)))));
             this.label65.Location = new System.Drawing.Point(71, 34);
             this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(32, 46);
+            this.label65.Size = new System.Drawing.Size(40, 58);
             this.label65.TabIndex = 8;
             this.label65.Text = ":";
             this.label65.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -21735,7 +21374,7 @@
             this.panel16.Location = new System.Drawing.Point(0, 260);
             this.panel16.Name = "panel16";
             this.panel16.Padding = new System.Windows.Forms.Padding(4);
-            this.panel16.Size = new System.Drawing.Size(186, 65);
+            this.panel16.Size = new System.Drawing.Size(233, 65);
             this.panel16.TabIndex = 17;
             // 
             // panel17
@@ -21745,7 +21384,7 @@
             this.panel17.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel17.Location = new System.Drawing.Point(4, 4);
             this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(178, 57);
+            this.panel17.Size = new System.Drawing.Size(225, 57);
             this.panel17.TabIndex = 5;
             // 
             // R2_LblPoint5
@@ -21757,7 +21396,7 @@
             this.R2_LblPoint5.ForeColor = System.Drawing.Color.White;
             this.R2_LblPoint5.Location = new System.Drawing.Point(109, 0);
             this.R2_LblPoint5.Name = "R2_LblPoint5";
-            this.R2_LblPoint5.Size = new System.Drawing.Size(69, 57);
+            this.R2_LblPoint5.Size = new System.Drawing.Size(116, 57);
             this.R2_LblPoint5.TabIndex = 1;
             this.R2_LblPoint5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R2_LblPoint5.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -21784,7 +21423,7 @@
             this.panel18.Location = new System.Drawing.Point(0, 195);
             this.panel18.Name = "panel18";
             this.panel18.Padding = new System.Windows.Forms.Padding(4);
-            this.panel18.Size = new System.Drawing.Size(186, 65);
+            this.panel18.Size = new System.Drawing.Size(233, 65);
             this.panel18.TabIndex = 16;
             // 
             // panel19
@@ -21794,7 +21433,7 @@
             this.panel19.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel19.Location = new System.Drawing.Point(4, 4);
             this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(178, 57);
+            this.panel19.Size = new System.Drawing.Size(225, 57);
             this.panel19.TabIndex = 5;
             // 
             // R2_LblPoint4
@@ -21806,7 +21445,7 @@
             this.R2_LblPoint4.ForeColor = System.Drawing.Color.White;
             this.R2_LblPoint4.Location = new System.Drawing.Point(109, 0);
             this.R2_LblPoint4.Name = "R2_LblPoint4";
-            this.R2_LblPoint4.Size = new System.Drawing.Size(69, 57);
+            this.R2_LblPoint4.Size = new System.Drawing.Size(116, 57);
             this.R2_LblPoint4.TabIndex = 1;
             this.R2_LblPoint4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R2_LblPoint4.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -21833,7 +21472,7 @@
             this.panel20.Location = new System.Drawing.Point(0, 130);
             this.panel20.Name = "panel20";
             this.panel20.Padding = new System.Windows.Forms.Padding(4);
-            this.panel20.Size = new System.Drawing.Size(186, 65);
+            this.panel20.Size = new System.Drawing.Size(233, 65);
             this.panel20.TabIndex = 15;
             // 
             // panel21
@@ -21843,7 +21482,7 @@
             this.panel21.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel21.Location = new System.Drawing.Point(4, 4);
             this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(178, 57);
+            this.panel21.Size = new System.Drawing.Size(225, 57);
             this.panel21.TabIndex = 5;
             // 
             // R2_LblPoint3
@@ -21855,7 +21494,7 @@
             this.R2_LblPoint3.ForeColor = System.Drawing.Color.White;
             this.R2_LblPoint3.Location = new System.Drawing.Point(109, 0);
             this.R2_LblPoint3.Name = "R2_LblPoint3";
-            this.R2_LblPoint3.Size = new System.Drawing.Size(69, 57);
+            this.R2_LblPoint3.Size = new System.Drawing.Size(116, 57);
             this.R2_LblPoint3.TabIndex = 1;
             this.R2_LblPoint3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R2_LblPoint3.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -21882,7 +21521,7 @@
             this.panel22.Location = new System.Drawing.Point(0, 65);
             this.panel22.Name = "panel22";
             this.panel22.Padding = new System.Windows.Forms.Padding(4);
-            this.panel22.Size = new System.Drawing.Size(186, 65);
+            this.panel22.Size = new System.Drawing.Size(233, 65);
             this.panel22.TabIndex = 14;
             // 
             // panel23
@@ -21892,7 +21531,7 @@
             this.panel23.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel23.Location = new System.Drawing.Point(4, 4);
             this.panel23.Name = "panel23";
-            this.panel23.Size = new System.Drawing.Size(178, 57);
+            this.panel23.Size = new System.Drawing.Size(225, 57);
             this.panel23.TabIndex = 5;
             // 
             // R2_LblPoint2
@@ -21904,7 +21543,7 @@
             this.R2_LblPoint2.ForeColor = System.Drawing.Color.White;
             this.R2_LblPoint2.Location = new System.Drawing.Point(109, 0);
             this.R2_LblPoint2.Name = "R2_LblPoint2";
-            this.R2_LblPoint2.Size = new System.Drawing.Size(69, 57);
+            this.R2_LblPoint2.Size = new System.Drawing.Size(116, 57);
             this.R2_LblPoint2.TabIndex = 1;
             this.R2_LblPoint2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R2_LblPoint2.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -21931,7 +21570,7 @@
             this.panel24.Location = new System.Drawing.Point(0, 0);
             this.panel24.Name = "panel24";
             this.panel24.Padding = new System.Windows.Forms.Padding(4);
-            this.panel24.Size = new System.Drawing.Size(186, 65);
+            this.panel24.Size = new System.Drawing.Size(233, 65);
             this.panel24.TabIndex = 13;
             // 
             // panel25
@@ -21941,7 +21580,7 @@
             this.panel25.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel25.Location = new System.Drawing.Point(4, 4);
             this.panel25.Name = "panel25";
-            this.panel25.Size = new System.Drawing.Size(178, 57);
+            this.panel25.Size = new System.Drawing.Size(225, 57);
             this.panel25.TabIndex = 5;
             // 
             // R2_LblPoint1
@@ -21953,7 +21592,7 @@
             this.R2_LblPoint1.ForeColor = System.Drawing.Color.White;
             this.R2_LblPoint1.Location = new System.Drawing.Point(109, 0);
             this.R2_LblPoint1.Name = "R2_LblPoint1";
-            this.R2_LblPoint1.Size = new System.Drawing.Size(69, 57);
+            this.R2_LblPoint1.Size = new System.Drawing.Size(116, 57);
             this.R2_LblPoint1.TabIndex = 1;
             this.R2_LblPoint1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R2_LblPoint1.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -22055,20 +21694,6 @@
             this.R2_BtnCloseRow.UseVisualStyleBackColor = false;
             this.R2_BtnCloseRow.Click += new System.EventHandler(this.R2_BtnCloseRow_Click);
             // 
-            // R2_BtnTrue1
-            // 
-            this.R2_BtnTrue1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R2_BtnTrue1.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R2_BtnTrue1.Location = new System.Drawing.Point(310, 31);
-            this.R2_BtnTrue1.Name = "R2_BtnTrue1";
-            this.R2_BtnTrue1.Size = new System.Drawing.Size(33, 31);
-            this.R2_BtnTrue1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R2_BtnTrue1.TabIndex = 980;
-            this.R2_BtnTrue1.TabStop = false;
-            this.R2_BtnTrue1.Visible = false;
-            this.R2_BtnTrue1.Click += new System.EventHandler(this.R2_BtnTrue1_Click);
-            this.R2_BtnTrue1.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
-            // 
             // tabGioiThieu
             // 
             this.tabGioiThieu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
@@ -22083,10 +21708,10 @@
             this.tabGioiThieu.Controls.Add(this.richTextBox1);
             this.tabGioiThieu.Controls.Add(this.btnHienthiphanthi);
             this.tabGioiThieu.Controls.Add(this.panel15);
-            this.tabGioiThieu.Location = new System.Drawing.Point(23, 4);
+            this.tabGioiThieu.Location = new System.Drawing.Point(25, 4);
             this.tabGioiThieu.Name = "tabGioiThieu";
             this.tabGioiThieu.Padding = new System.Windows.Forms.Padding(3);
-            this.tabGioiThieu.Size = new System.Drawing.Size(1257, 634);
+            this.tabGioiThieu.Size = new System.Drawing.Size(1970, 994);
             this.tabGioiThieu.TabIndex = 3;
             this.tabGioiThieu.Text = "GIỚI THIỆU";
             // 
@@ -22098,7 +21723,7 @@
             "VỀ ĐÍCH"});
             this.cboTitle.Location = new System.Drawing.Point(444, 463);
             this.cboTitle.Name = "cboTitle";
-            this.cboTitle.Size = new System.Drawing.Size(325, 28);
+            this.cboTitle.Size = new System.Drawing.Size(325, 33);
             this.cboTitle.TabIndex = 1048;
             this.cboTitle.Text = "KHỞI ĐỘNG";
             this.cboTitle.TextChanged += new System.EventHandler(this.cboTitle_TextChanged);
@@ -22133,7 +21758,7 @@
             this.label26.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(54)))), ((int)(((byte)(44)))));
             this.label26.Location = new System.Drawing.Point(722, 230);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(73, 108);
+            this.label26.Size = new System.Drawing.Size(91, 135);
             this.label26.TabIndex = 1045;
             this.label26.Text = ":";
             this.label26.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -22187,7 +21812,7 @@
             this.labTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labTitle.Location = new System.Drawing.Point(444, 30);
             this.labTitle.Name = "labTitle";
-            this.labTitle.Size = new System.Drawing.Size(605, 110);
+            this.labTitle.Size = new System.Drawing.Size(753, 137);
             this.labTitle.TabIndex = 1041;
             this.labTitle.Text = "KHỞI ĐỘNG";
             this.labTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -22230,7 +21855,7 @@
             this.panel15.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel15.Location = new System.Drawing.Point(3, 3);
             this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(252, 628);
+            this.panel15.Size = new System.Drawing.Size(315, 1235);
             this.panel15.TabIndex = 1008;
             // 
             // panel28
@@ -22240,7 +21865,7 @@
             this.panel28.Location = new System.Drawing.Point(0, 395);
             this.panel28.Name = "panel28";
             this.panel28.Padding = new System.Windows.Forms.Padding(18, 10, 18, 10);
-            this.panel28.Size = new System.Drawing.Size(252, 233);
+            this.panel28.Size = new System.Drawing.Size(315, 840);
             this.panel28.TabIndex = 18;
             // 
             // R_GT_Clock
@@ -22263,7 +21888,7 @@
             this.panel29.Location = new System.Drawing.Point(0, 316);
             this.panel29.Name = "panel29";
             this.panel29.Padding = new System.Windows.Forms.Padding(4);
-            this.panel29.Size = new System.Drawing.Size(252, 79);
+            this.panel29.Size = new System.Drawing.Size(315, 79);
             this.panel29.TabIndex = 17;
             // 
             // panel30
@@ -22273,7 +21898,7 @@
             this.panel30.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel30.Location = new System.Drawing.Point(4, 4);
             this.panel30.Name = "panel30";
-            this.panel30.Size = new System.Drawing.Size(244, 71);
+            this.panel30.Size = new System.Drawing.Size(307, 71);
             this.panel30.TabIndex = 5;
             // 
             // R_GT_LblPoint5
@@ -22285,7 +21910,7 @@
             this.R_GT_LblPoint5.ForeColor = System.Drawing.Color.White;
             this.R_GT_LblPoint5.Location = new System.Drawing.Point(149, 0);
             this.R_GT_LblPoint5.Name = "R_GT_LblPoint5";
-            this.R_GT_LblPoint5.Size = new System.Drawing.Size(95, 71);
+            this.R_GT_LblPoint5.Size = new System.Drawing.Size(158, 71);
             this.R_GT_LblPoint5.TabIndex = 1;
             this.R_GT_LblPoint5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R_GT_LblPoint5.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -22310,7 +21935,7 @@
             this.panel31.Location = new System.Drawing.Point(0, 237);
             this.panel31.Name = "panel31";
             this.panel31.Padding = new System.Windows.Forms.Padding(4);
-            this.panel31.Size = new System.Drawing.Size(252, 79);
+            this.panel31.Size = new System.Drawing.Size(315, 79);
             this.panel31.TabIndex = 16;
             // 
             // panel32
@@ -22320,7 +21945,7 @@
             this.panel32.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel32.Location = new System.Drawing.Point(4, 4);
             this.panel32.Name = "panel32";
-            this.panel32.Size = new System.Drawing.Size(244, 71);
+            this.panel32.Size = new System.Drawing.Size(307, 71);
             this.panel32.TabIndex = 5;
             // 
             // R_GT_LblPoint4
@@ -22332,7 +21957,7 @@
             this.R_GT_LblPoint4.ForeColor = System.Drawing.Color.White;
             this.R_GT_LblPoint4.Location = new System.Drawing.Point(149, 0);
             this.R_GT_LblPoint4.Name = "R_GT_LblPoint4";
-            this.R_GT_LblPoint4.Size = new System.Drawing.Size(95, 71);
+            this.R_GT_LblPoint4.Size = new System.Drawing.Size(158, 71);
             this.R_GT_LblPoint4.TabIndex = 1;
             this.R_GT_LblPoint4.Text = "100";
             this.R_GT_LblPoint4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -22359,7 +21984,7 @@
             this.panel33.Location = new System.Drawing.Point(0, 158);
             this.panel33.Name = "panel33";
             this.panel33.Padding = new System.Windows.Forms.Padding(4);
-            this.panel33.Size = new System.Drawing.Size(252, 79);
+            this.panel33.Size = new System.Drawing.Size(315, 79);
             this.panel33.TabIndex = 15;
             // 
             // panel34
@@ -22369,7 +21994,7 @@
             this.panel34.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel34.Location = new System.Drawing.Point(4, 4);
             this.panel34.Name = "panel34";
-            this.panel34.Size = new System.Drawing.Size(244, 71);
+            this.panel34.Size = new System.Drawing.Size(307, 71);
             this.panel34.TabIndex = 5;
             // 
             // R_GT_LblPoint3
@@ -22381,7 +22006,7 @@
             this.R_GT_LblPoint3.ForeColor = System.Drawing.Color.White;
             this.R_GT_LblPoint3.Location = new System.Drawing.Point(149, 0);
             this.R_GT_LblPoint3.Name = "R_GT_LblPoint3";
-            this.R_GT_LblPoint3.Size = new System.Drawing.Size(95, 71);
+            this.R_GT_LblPoint3.Size = new System.Drawing.Size(158, 71);
             this.R_GT_LblPoint3.TabIndex = 1;
             this.R_GT_LblPoint3.Text = "100";
             this.R_GT_LblPoint3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -22408,7 +22033,7 @@
             this.panel35.Location = new System.Drawing.Point(0, 79);
             this.panel35.Name = "panel35";
             this.panel35.Padding = new System.Windows.Forms.Padding(4);
-            this.panel35.Size = new System.Drawing.Size(252, 79);
+            this.panel35.Size = new System.Drawing.Size(315, 79);
             this.panel35.TabIndex = 14;
             // 
             // panel36
@@ -22418,7 +22043,7 @@
             this.panel36.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel36.Location = new System.Drawing.Point(4, 4);
             this.panel36.Name = "panel36";
-            this.panel36.Size = new System.Drawing.Size(244, 71);
+            this.panel36.Size = new System.Drawing.Size(307, 71);
             this.panel36.TabIndex = 5;
             // 
             // R_GT_LblPoint2
@@ -22430,7 +22055,7 @@
             this.R_GT_LblPoint2.ForeColor = System.Drawing.Color.White;
             this.R_GT_LblPoint2.Location = new System.Drawing.Point(149, 0);
             this.R_GT_LblPoint2.Name = "R_GT_LblPoint2";
-            this.R_GT_LblPoint2.Size = new System.Drawing.Size(95, 71);
+            this.R_GT_LblPoint2.Size = new System.Drawing.Size(158, 71);
             this.R_GT_LblPoint2.TabIndex = 1;
             this.R_GT_LblPoint2.Text = "100";
             this.R_GT_LblPoint2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -22457,7 +22082,7 @@
             this.panel37.Location = new System.Drawing.Point(0, 0);
             this.panel37.Name = "panel37";
             this.panel37.Padding = new System.Windows.Forms.Padding(4);
-            this.panel37.Size = new System.Drawing.Size(252, 79);
+            this.panel37.Size = new System.Drawing.Size(315, 79);
             this.panel37.TabIndex = 13;
             // 
             // panel38
@@ -22467,7 +22092,7 @@
             this.panel38.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel38.Location = new System.Drawing.Point(4, 4);
             this.panel38.Name = "panel38";
-            this.panel38.Size = new System.Drawing.Size(244, 71);
+            this.panel38.Size = new System.Drawing.Size(307, 71);
             this.panel38.TabIndex = 5;
             // 
             // R_GT_LblPoint1
@@ -22479,7 +22104,7 @@
             this.R_GT_LblPoint1.ForeColor = System.Drawing.Color.White;
             this.R_GT_LblPoint1.Location = new System.Drawing.Point(149, 0);
             this.R_GT_LblPoint1.Name = "R_GT_LblPoint1";
-            this.R_GT_LblPoint1.Size = new System.Drawing.Size(95, 71);
+            this.R_GT_LblPoint1.Size = new System.Drawing.Size(158, 71);
             this.R_GT_LblPoint1.TabIndex = 1;
             this.R_GT_LblPoint1.Text = "100";
             this.R_GT_LblPoint1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -22504,11 +22129,6 @@
             this.tabBamChuong.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
             this.tabBamChuong.Controls.Add(this.button2);
             this.tabBamChuong.Controls.Add(this.button3);
-            this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue6);
-            this.tabBamChuong.Controls.Add(this.R_BC_BtnStar6);
-            this.tabBamChuong.Controls.Add(this.R_BC_BtnBell6);
-            this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue_x2_6);
-            this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue_chia2_6);
             this.tabBamChuong.Controls.Add(this.R_BC_TeamAnswer6);
             this.tabBamChuong.Controls.Add(this.R_BC_TimeAnswer6);
             this.tabBamChuong.Controls.Add(this.R_BC_TeamAnswer5);
@@ -22554,6 +22174,11 @@
             this.tabBamChuong.Controls.Add(this.R_BC_BtnAddPoint);
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTime);
             this.tabBamChuong.Controls.Add(this.panel40);
+            this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue6);
+            this.tabBamChuong.Controls.Add(this.R_BC_BtnStar6);
+            this.tabBamChuong.Controls.Add(this.R_BC_BtnBell6);
+            this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue_x2_6);
+            this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue_chia2_6);
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue5);
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue4);
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue3);
@@ -22579,10 +22204,10 @@
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue_chia2_1);
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue_x2_1);
             this.tabBamChuong.Controls.Add(this.R_BC_BtnTrue1);
-            this.tabBamChuong.Location = new System.Drawing.Point(23, 4);
+            this.tabBamChuong.Location = new System.Drawing.Point(25, 4);
             this.tabBamChuong.Name = "tabBamChuong";
             this.tabBamChuong.Padding = new System.Windows.Forms.Padding(3);
-            this.tabBamChuong.Size = new System.Drawing.Size(1257, 634);
+            this.tabBamChuong.Size = new System.Drawing.Size(1970, 994);
             this.tabBamChuong.TabIndex = 4;
             this.tabBamChuong.Text = "Hiểu nghiệp vụ";
             // 
@@ -22617,71 +22242,6 @@
             this.button3.Text = "30s suy nghĩ";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // R_BC_BtnTrue6
-            // 
-            this.R_BC_BtnTrue6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R_BC_BtnTrue6.Image = global::HoiThiDV.Properties.Resources.checkicon;
-            this.R_BC_BtnTrue6.Location = new System.Drawing.Point(445, 332);
-            this.R_BC_BtnTrue6.Name = "R_BC_BtnTrue6";
-            this.R_BC_BtnTrue6.Size = new System.Drawing.Size(33, 32);
-            this.R_BC_BtnTrue6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R_BC_BtnTrue6.TabIndex = 1066;
-            this.R_BC_BtnTrue6.TabStop = false;
-            this.R_BC_BtnTrue6.Visible = false;
-            this.R_BC_BtnTrue6.Click += new System.EventHandler(this.R_BC_BtnTrue6_Click);
-            // 
-            // R_BC_BtnStar6
-            // 
-            this.R_BC_BtnStar6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R_BC_BtnStar6.Image = global::HoiThiDV.Properties.Resources.giphy;
-            this.R_BC_BtnStar6.Location = new System.Drawing.Point(369, 332);
-            this.R_BC_BtnStar6.Name = "R_BC_BtnStar6";
-            this.R_BC_BtnStar6.Size = new System.Drawing.Size(33, 32);
-            this.R_BC_BtnStar6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R_BC_BtnStar6.TabIndex = 1062;
-            this.R_BC_BtnStar6.TabStop = false;
-            this.R_BC_BtnStar6.Click += new System.EventHandler(this.R_BC_BtnStar6_Click);
-            this.R_BC_BtnStar6.DoubleClick += new System.EventHandler(this.R_BC_BtnStar1_DoubleClick);
-            // 
-            // R_BC_BtnBell6
-            // 
-            this.R_BC_BtnBell6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R_BC_BtnBell6.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
-            this.R_BC_BtnBell6.Location = new System.Drawing.Point(332, 332);
-            this.R_BC_BtnBell6.Name = "R_BC_BtnBell6";
-            this.R_BC_BtnBell6.Size = new System.Drawing.Size(33, 32);
-            this.R_BC_BtnBell6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R_BC_BtnBell6.TabIndex = 1063;
-            this.R_BC_BtnBell6.TabStop = false;
-            this.R_BC_BtnBell6.Click += new System.EventHandler(this.R_BC_BtnBell6_Click);
-            this.R_BC_BtnBell6.DoubleClick += new System.EventHandler(this.R_BC_BtnBell1_DoubleClick);
-            // 
-            // R_BC_BtnTrue_x2_6
-            // 
-            this.R_BC_BtnTrue_x2_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R_BC_BtnTrue_x2_6.Image = global::HoiThiDV.Properties.Resources.x2;
-            this.R_BC_BtnTrue_x2_6.Location = new System.Drawing.Point(408, 332);
-            this.R_BC_BtnTrue_x2_6.Name = "R_BC_BtnTrue_x2_6";
-            this.R_BC_BtnTrue_x2_6.Size = new System.Drawing.Size(33, 32);
-            this.R_BC_BtnTrue_x2_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R_BC_BtnTrue_x2_6.TabIndex = 1064;
-            this.R_BC_BtnTrue_x2_6.TabStop = false;
-            this.R_BC_BtnTrue_x2_6.Visible = false;
-            this.R_BC_BtnTrue_x2_6.Click += new System.EventHandler(this.R_BC_BtnTrue_x2_6_Click);
-            // 
-            // R_BC_BtnTrue_chia2_6
-            // 
-            this.R_BC_BtnTrue_chia2_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
-            this.R_BC_BtnTrue_chia2_6.Image = ((System.Drawing.Image)(resources.GetObject("R_BC_BtnTrue_chia2_6.Image")));
-            this.R_BC_BtnTrue_chia2_6.Location = new System.Drawing.Point(481, 332);
-            this.R_BC_BtnTrue_chia2_6.Name = "R_BC_BtnTrue_chia2_6";
-            this.R_BC_BtnTrue_chia2_6.Size = new System.Drawing.Size(33, 32);
-            this.R_BC_BtnTrue_chia2_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.R_BC_BtnTrue_chia2_6.TabIndex = 1065;
-            this.R_BC_BtnTrue_chia2_6.TabStop = false;
-            this.R_BC_BtnTrue_chia2_6.Visible = false;
-            this.R_BC_BtnTrue_chia2_6.Click += new System.EventHandler(this.R_BC_BtnTrue_chia2_6_Click);
             // 
             // R_BC_TeamAnswer6
             // 
@@ -22850,7 +22410,7 @@
             this.label32.AutoSize = true;
             this.label32.Location = new System.Drawing.Point(516, 528);
             this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(71, 20);
+            this.label32.Size = new System.Drawing.Size(113, 33);
             this.label32.TabIndex = 1049;
             this.label32.Text = "Tên đội";
             // 
@@ -22859,7 +22419,7 @@
             this.label31.AutoSize = true;
             this.label31.Location = new System.Drawing.Point(675, 528);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(37, 20);
+            this.label31.Size = new System.Drawing.Size(60, 33);
             this.label31.TabIndex = 1049;
             this.label31.Text = "Đội";
             // 
@@ -22874,14 +22434,14 @@
             "5"});
             this.cboTeamBC.Location = new System.Drawing.Point(663, 551);
             this.cboTeamBC.Name = "cboTeamBC";
-            this.cboTeamBC.Size = new System.Drawing.Size(76, 28);
+            this.cboTeamBC.Size = new System.Drawing.Size(76, 33);
             this.cboTeamBC.TabIndex = 1048;
             // 
             // txtNameTeamBC
             // 
             this.txtNameTeamBC.Location = new System.Drawing.Point(454, 552);
             this.txtNameTeamBC.Name = "txtNameTeamBC";
-            this.txtNameTeamBC.Size = new System.Drawing.Size(203, 27);
+            this.txtNameTeamBC.Size = new System.Drawing.Size(318, 40);
             this.txtNameTeamBC.TabIndex = 1047;
             // 
             // R_BC_BtnShowAnswerCT
@@ -22923,7 +22483,7 @@
             this.cboChooseRound.FormattingEnabled = true;
             this.cboChooseRound.Location = new System.Drawing.Point(470, 496);
             this.cboChooseRound.Name = "cboChooseRound";
-            this.cboChooseRound.Size = new System.Drawing.Size(269, 28);
+            this.cboChooseRound.Size = new System.Drawing.Size(269, 33);
             this.cboChooseRound.TabIndex = 1044;
             // 
             // R_BC_Quest12
@@ -23338,7 +22898,7 @@
             this.panel40.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel40.Location = new System.Drawing.Point(3, 3);
             this.panel40.Name = "panel40";
-            this.panel40.Size = new System.Drawing.Size(252, 628);
+            this.panel40.Size = new System.Drawing.Size(315, 1235);
             this.panel40.TabIndex = 1009;
             // 
             // panel52
@@ -23348,7 +22908,7 @@
             this.panel52.Location = new System.Drawing.Point(0, 325);
             this.panel52.Name = "panel52";
             this.panel52.Padding = new System.Windows.Forms.Padding(4);
-            this.panel52.Size = new System.Drawing.Size(252, 65);
+            this.panel52.Size = new System.Drawing.Size(315, 65);
             this.panel52.TabIndex = 19;
             // 
             // panel53
@@ -23358,7 +22918,7 @@
             this.panel53.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel53.Location = new System.Drawing.Point(4, 4);
             this.panel53.Name = "panel53";
-            this.panel53.Size = new System.Drawing.Size(244, 57);
+            this.panel53.Size = new System.Drawing.Size(307, 57);
             this.panel53.TabIndex = 5;
             // 
             // R_BC_LblPoint6
@@ -23370,7 +22930,7 @@
             this.R_BC_LblPoint6.ForeColor = System.Drawing.Color.White;
             this.R_BC_LblPoint6.Location = new System.Drawing.Point(149, 0);
             this.R_BC_LblPoint6.Name = "R_BC_LblPoint6";
-            this.R_BC_LblPoint6.Size = new System.Drawing.Size(95, 57);
+            this.R_BC_LblPoint6.Size = new System.Drawing.Size(158, 57);
             this.R_BC_LblPoint6.TabIndex = 1;
             this.R_BC_LblPoint6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R_BC_LblPoint6.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -23407,7 +22967,7 @@
             this.label43.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(54)))), ((int)(((byte)(44)))));
             this.label43.Location = new System.Drawing.Point(107, 98);
             this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(32, 46);
+            this.label43.Size = new System.Drawing.Size(40, 58);
             this.label43.TabIndex = 5;
             this.label43.Text = ":";
             this.label43.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -23443,7 +23003,7 @@
             this.panel42.Location = new System.Drawing.Point(0, 260);
             this.panel42.Name = "panel42";
             this.panel42.Padding = new System.Windows.Forms.Padding(4);
-            this.panel42.Size = new System.Drawing.Size(252, 65);
+            this.panel42.Size = new System.Drawing.Size(315, 65);
             this.panel42.TabIndex = 17;
             // 
             // panel43
@@ -23453,7 +23013,7 @@
             this.panel43.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel43.Location = new System.Drawing.Point(4, 4);
             this.panel43.Name = "panel43";
-            this.panel43.Size = new System.Drawing.Size(244, 57);
+            this.panel43.Size = new System.Drawing.Size(307, 57);
             this.panel43.TabIndex = 5;
             // 
             // R_BC_LblPoint5
@@ -23465,7 +23025,7 @@
             this.R_BC_LblPoint5.ForeColor = System.Drawing.Color.White;
             this.R_BC_LblPoint5.Location = new System.Drawing.Point(149, 0);
             this.R_BC_LblPoint5.Name = "R_BC_LblPoint5";
-            this.R_BC_LblPoint5.Size = new System.Drawing.Size(95, 57);
+            this.R_BC_LblPoint5.Size = new System.Drawing.Size(158, 57);
             this.R_BC_LblPoint5.TabIndex = 1;
             this.R_BC_LblPoint5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.R_BC_LblPoint5.Click += new System.EventHandler(this.EditScoreOfTeamN);
@@ -23490,7 +23050,7 @@
             this.panel44.Location = new System.Drawing.Point(0, 195);
             this.panel44.Name = "panel44";
             this.panel44.Padding = new System.Windows.Forms.Padding(4);
-            this.panel44.Size = new System.Drawing.Size(252, 65);
+            this.panel44.Size = new System.Drawing.Size(315, 65);
             this.panel44.TabIndex = 16;
             // 
             // panel45
@@ -23500,7 +23060,7 @@
             this.panel45.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel45.Location = new System.Drawing.Point(4, 4);
             this.panel45.Name = "panel45";
-            this.panel45.Size = new System.Drawing.Size(244, 57);
+            this.panel45.Size = new System.Drawing.Size(307, 57);
             this.panel45.TabIndex = 5;
             // 
             // R_BC_LblPoint4
@@ -23512,7 +23072,7 @@
             this.R_BC_LblPoint4.ForeColor = System.Drawing.Color.White;
             this.R_BC_LblPoint4.Location = new System.Drawing.Point(149, 0);
             this.R_BC_LblPoint4.Name = "R_BC_LblPoint4";
-            this.R_BC_LblPoint4.Size = new System.Drawing.Size(95, 57);
+            this.R_BC_LblPoint4.Size = new System.Drawing.Size(158, 57);
             this.R_BC_LblPoint4.TabIndex = 1;
             this.R_BC_LblPoint4.Text = "100";
             this.R_BC_LblPoint4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -23539,7 +23099,7 @@
             this.panel46.Location = new System.Drawing.Point(0, 130);
             this.panel46.Name = "panel46";
             this.panel46.Padding = new System.Windows.Forms.Padding(4);
-            this.panel46.Size = new System.Drawing.Size(252, 65);
+            this.panel46.Size = new System.Drawing.Size(315, 65);
             this.panel46.TabIndex = 15;
             // 
             // panel47
@@ -23549,7 +23109,7 @@
             this.panel47.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel47.Location = new System.Drawing.Point(4, 4);
             this.panel47.Name = "panel47";
-            this.panel47.Size = new System.Drawing.Size(244, 57);
+            this.panel47.Size = new System.Drawing.Size(307, 57);
             this.panel47.TabIndex = 5;
             // 
             // R_BC_LblPoint3
@@ -23561,7 +23121,7 @@
             this.R_BC_LblPoint3.ForeColor = System.Drawing.Color.White;
             this.R_BC_LblPoint3.Location = new System.Drawing.Point(149, 0);
             this.R_BC_LblPoint3.Name = "R_BC_LblPoint3";
-            this.R_BC_LblPoint3.Size = new System.Drawing.Size(95, 57);
+            this.R_BC_LblPoint3.Size = new System.Drawing.Size(158, 57);
             this.R_BC_LblPoint3.TabIndex = 1;
             this.R_BC_LblPoint3.Text = "100";
             this.R_BC_LblPoint3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -23588,7 +23148,7 @@
             this.panel48.Location = new System.Drawing.Point(0, 65);
             this.panel48.Name = "panel48";
             this.panel48.Padding = new System.Windows.Forms.Padding(4);
-            this.panel48.Size = new System.Drawing.Size(252, 65);
+            this.panel48.Size = new System.Drawing.Size(315, 65);
             this.panel48.TabIndex = 14;
             // 
             // panel49
@@ -23598,7 +23158,7 @@
             this.panel49.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel49.Location = new System.Drawing.Point(4, 4);
             this.panel49.Name = "panel49";
-            this.panel49.Size = new System.Drawing.Size(244, 57);
+            this.panel49.Size = new System.Drawing.Size(307, 57);
             this.panel49.TabIndex = 5;
             // 
             // R_BC_LblPoint2
@@ -23610,7 +23170,7 @@
             this.R_BC_LblPoint2.ForeColor = System.Drawing.Color.White;
             this.R_BC_LblPoint2.Location = new System.Drawing.Point(149, 0);
             this.R_BC_LblPoint2.Name = "R_BC_LblPoint2";
-            this.R_BC_LblPoint2.Size = new System.Drawing.Size(95, 57);
+            this.R_BC_LblPoint2.Size = new System.Drawing.Size(158, 57);
             this.R_BC_LblPoint2.TabIndex = 1;
             this.R_BC_LblPoint2.Text = "100";
             this.R_BC_LblPoint2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -23637,7 +23197,7 @@
             this.panel50.Location = new System.Drawing.Point(0, 0);
             this.panel50.Name = "panel50";
             this.panel50.Padding = new System.Windows.Forms.Padding(4);
-            this.panel50.Size = new System.Drawing.Size(252, 65);
+            this.panel50.Size = new System.Drawing.Size(315, 65);
             this.panel50.TabIndex = 13;
             // 
             // panel51
@@ -23647,7 +23207,7 @@
             this.panel51.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel51.Location = new System.Drawing.Point(4, 4);
             this.panel51.Name = "panel51";
-            this.panel51.Size = new System.Drawing.Size(244, 57);
+            this.panel51.Size = new System.Drawing.Size(307, 57);
             this.panel51.TabIndex = 5;
             // 
             // R_BC_LblPoint1
@@ -23659,7 +23219,7 @@
             this.R_BC_LblPoint1.ForeColor = System.Drawing.Color.White;
             this.R_BC_LblPoint1.Location = new System.Drawing.Point(149, 0);
             this.R_BC_LblPoint1.Name = "R_BC_LblPoint1";
-            this.R_BC_LblPoint1.Size = new System.Drawing.Size(95, 57);
+            this.R_BC_LblPoint1.Size = new System.Drawing.Size(158, 57);
             this.R_BC_LblPoint1.TabIndex = 1;
             this.R_BC_LblPoint1.Text = "100";
             this.R_BC_LblPoint1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -23678,6 +23238,593 @@
             this.R_BC_LblTeam1.TabIndex = 0;
             this.R_BC_LblTeam1.Text = "Đội 1";
             this.R_BC_LblTeam1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // MenuRight
+            // 
+            this.MenuRight.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.MenuRight.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cmdScreenTeam,
+            this.cmdScreenJudges,
+            this.cmdScreenJudges1doi,
+            this.cmdScreenRound1,
+            this.cmdScreenRound2,
+            this.cmdScreenRound_GT,
+            this.cmdScreenRound_BC});
+            this.MenuRight.Name = "MenuRight";
+            this.MenuRight.Size = new System.Drawing.Size(256, 172);
+            // 
+            // cmdScreenTeam
+            // 
+            this.cmdScreenTeam.Name = "cmdScreenTeam";
+            this.cmdScreenTeam.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenTeam.Text = "Màn hình Đội thi";
+            this.cmdScreenTeam.Click += new System.EventHandler(this.cmdScreenTeam_Click);
+            // 
+            // cmdScreenJudges
+            // 
+            this.cmdScreenJudges.Name = "cmdScreenJudges";
+            this.cmdScreenJudges.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenJudges.Text = "Màn hình Giám khảo";
+            this.cmdScreenJudges.Click += new System.EventHandler(this.cmdScreenJudges_Click);
+            // 
+            // cmdScreenJudges1doi
+            // 
+            this.cmdScreenJudges1doi.Name = "cmdScreenJudges1doi";
+            this.cmdScreenJudges1doi.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenJudges1doi.Text = "Màn hình Giám khảo 1 đội";
+            this.cmdScreenJudges1doi.Click += new System.EventHandler(this.cmdScreenJudges1doi_Click);
+            // 
+            // cmdScreenRound1
+            // 
+            this.cmdScreenRound1.Name = "cmdScreenRound1";
+            this.cmdScreenRound1.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenRound1.Text = "Màn hình Khởi động";
+            this.cmdScreenRound1.Click += new System.EventHandler(this.cmdScreenRound1_Click);
+            // 
+            // cmdScreenRound2
+            // 
+            this.cmdScreenRound2.Name = "cmdScreenRound2";
+            this.cmdScreenRound2.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenRound2.Text = "Màn hình GIẢI Ô CHỮ";
+            this.cmdScreenRound2.Click += new System.EventHandler(this.cmdScreenRound2_Click);
+            // 
+            // cmdScreenRound_GT
+            // 
+            this.cmdScreenRound_GT.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.startToolStripMenuItem,
+            this.pauseToolStripMenuItem,
+            this.stopToolStripMenuItem,
+            this.change2MinsToolStripMenuItem,
+            this.change3MinsToolStripMenuItem,
+            this.change5MinsToolStripMenuItem,
+            this.change7MinsToolStripMenuItem});
+            this.cmdScreenRound_GT.Name = "cmdScreenRound_GT";
+            this.cmdScreenRound_GT.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenRound_GT.Text = "Màn hình Giới thiệu";
+            this.cmdScreenRound_GT.Visible = false;
+            this.cmdScreenRound_GT.Click += new System.EventHandler(this.cmdScreenRound_GT_Click);
+            // 
+            // startToolStripMenuItem
+            // 
+            this.startToolStripMenuItem.Name = "startToolStripMenuItem";
+            this.startToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.S)));
+            this.startToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.startToolStripMenuItem.Text = "Start";
+            this.startToolStripMenuItem.Click += new System.EventHandler(this.startToolStripMenuItem_Click);
+            // 
+            // pauseToolStripMenuItem
+            // 
+            this.pauseToolStripMenuItem.Name = "pauseToolStripMenuItem";
+            this.pauseToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.X)));
+            this.pauseToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.pauseToolStripMenuItem.Text = "Pause";
+            this.pauseToolStripMenuItem.Click += new System.EventHandler(this.pauseToolStripMenuItem_Click);
+            // 
+            // stopToolStripMenuItem
+            // 
+            this.stopToolStripMenuItem.Name = "stopToolStripMenuItem";
+            this.stopToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.V)));
+            this.stopToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.stopToolStripMenuItem.Text = "Stop";
+            this.stopToolStripMenuItem.Click += new System.EventHandler(this.stopToolStripMenuItem_Click);
+            // 
+            // change2MinsToolStripMenuItem
+            // 
+            this.change2MinsToolStripMenuItem.Name = "change2MinsToolStripMenuItem";
+            this.change2MinsToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.change2MinsToolStripMenuItem.Text = "Change 2 Mins (Suy nghĩ)";
+            this.change2MinsToolStripMenuItem.Click += new System.EventHandler(this.change2MinsToolStripMenuItem_Click);
+            // 
+            // change3MinsToolStripMenuItem
+            // 
+            this.change3MinsToolStripMenuItem.Name = "change3MinsToolStripMenuItem";
+            this.change3MinsToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.change3MinsToolStripMenuItem.Text = "Change 3 Mins (Hùng biện)";
+            this.change3MinsToolStripMenuItem.Click += new System.EventHandler(this.change3MinsToolStripMenuItem_Click);
+            // 
+            // change5MinsToolStripMenuItem
+            // 
+            this.change5MinsToolStripMenuItem.Name = "change5MinsToolStripMenuItem";
+            this.change5MinsToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.change5MinsToolStripMenuItem.Text = "Change 5 Mins (Giới thiệu)";
+            this.change5MinsToolStripMenuItem.Click += new System.EventHandler(this.change5MinsToolStripMenuItem_Click);
+            // 
+            // change7MinsToolStripMenuItem
+            // 
+            this.change7MinsToolStripMenuItem.Name = "change7MinsToolStripMenuItem";
+            this.change7MinsToolStripMenuItem.Size = new System.Drawing.Size(272, 26);
+            this.change7MinsToolStripMenuItem.Text = "Change 7 Mins";
+            this.change7MinsToolStripMenuItem.Click += new System.EventHandler(this.change7MinsToolStripMenuItem_Click);
+            // 
+            // cmdScreenRound_BC
+            // 
+            this.cmdScreenRound_BC.Name = "cmdScreenRound_BC";
+            this.cmdScreenRound_BC.Size = new System.Drawing.Size(255, 24);
+            this.cmdScreenRound_BC.Text = "Màn hình HIỂU NGHIỆP VỤ";
+            this.cmdScreenRound_BC.Click += new System.EventHandler(this.cmdScreenRound_BC_Click);
+            // 
+            // R1_Timer
+            // 
+            this.R1_Timer.Interval = 15;
+            this.R1_Timer.Tick += new System.EventHandler(this.R1_Timer_Tick);
+            // 
+            // R2_Timer
+            // 
+            this.R2_Timer.Interval = 10;
+            this.R2_Timer.Tick += new System.EventHandler(this.R2_Timer_Tick);
+            // 
+            // R_GT_Timer
+            // 
+            this.R_GT_Timer.Interval = 1000;
+            this.R_GT_Timer.Tick += new System.EventHandler(this.R_GT_Timer_Tick);
+            // 
+            // R_BC_Timer
+            // 
+            this.R_BC_Timer.Interval = 1000;
+            this.R_BC_Timer.Tick += new System.EventHandler(this.R_BC_Timer_Tick);
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.BackColor = System.Drawing.Color.White;
+            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox11.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox11.Location = new System.Drawing.Point(1051, 82);
+            this.pictureBox11.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(150, 170);
+            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox11.TabIndex = 45;
+            this.pictureBox11.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.BackColor = System.Drawing.Color.White;
+            this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox3.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox3.Location = new System.Drawing.Point(852, 82);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(150, 170);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 43;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.White;
+            this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox2.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox2.Location = new System.Drawing.Point(643, 82);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(150, 170);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 42;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.White;
+            this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox1.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox1.Location = new System.Drawing.Point(430, 82);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(150, 170);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 41;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.BackColor = System.Drawing.Color.White;
+            this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox4.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox4.Location = new System.Drawing.Point(227, 82);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(150, 170);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 40;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.BackColor = System.Drawing.Color.White;
+            this.pictureBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox5.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox5.Location = new System.Drawing.Point(30, 82);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(150, 170);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 29;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.BackColor = System.Drawing.Color.White;
+            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox12.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox12.Location = new System.Drawing.Point(1023, 0);
+            this.pictureBox12.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(127, 107);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox12.TabIndex = 51;
+            this.pictureBox12.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BackColor = System.Drawing.Color.White;
+            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox6.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox6.Location = new System.Drawing.Point(879, 0);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(127, 107);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 43;
+            this.pictureBox6.TabStop = false;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.BackColor = System.Drawing.Color.White;
+            this.pictureBox7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox7.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox7.Location = new System.Drawing.Point(734, 0);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(128, 107);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 42;
+            this.pictureBox7.TabStop = false;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.BackColor = System.Drawing.Color.White;
+            this.pictureBox8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox8.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox8.Location = new System.Drawing.Point(589, 0);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(127, 107);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox8.TabIndex = 41;
+            this.pictureBox8.TabStop = false;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.BackColor = System.Drawing.Color.White;
+            this.pictureBox9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox9.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox9.Location = new System.Drawing.Point(441, 0);
+            this.pictureBox9.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(127, 107);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox9.TabIndex = 40;
+            this.pictureBox9.TabStop = false;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.BackColor = System.Drawing.Color.White;
+            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox10.Image = global::HoiThiDV.Properties.Resources.person_default;
+            this.pictureBox10.Location = new System.Drawing.Point(294, 0);
+            this.pictureBox10.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(128, 107);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox10.TabIndex = 29;
+            this.pictureBox10.TabStop = false;
+            // 
+            // clickColor5
+            // 
+            this.clickColor5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.clickColor5.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
+            this.clickColor5.Location = new System.Drawing.Point(442, 327);
+            this.clickColor5.Name = "clickColor5";
+            this.clickColor5.Size = new System.Drawing.Size(33, 32);
+            this.clickColor5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.clickColor5.TabIndex = 1017;
+            this.clickColor5.TabStop = false;
+            this.clickColor5.Visible = false;
+            this.clickColor5.Click += new System.EventHandler(this.clickColor5_Click);
+            this.clickColor5.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
+            // 
+            // clickColor4
+            // 
+            this.clickColor4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.clickColor4.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
+            this.clickColor4.Location = new System.Drawing.Point(442, 248);
+            this.clickColor4.Name = "clickColor4";
+            this.clickColor4.Size = new System.Drawing.Size(33, 32);
+            this.clickColor4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.clickColor4.TabIndex = 1016;
+            this.clickColor4.TabStop = false;
+            this.clickColor4.Visible = false;
+            this.clickColor4.Click += new System.EventHandler(this.clickColor4_Click);
+            this.clickColor4.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
+            // 
+            // clickColor3
+            // 
+            this.clickColor3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.clickColor3.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
+            this.clickColor3.Location = new System.Drawing.Point(442, 171);
+            this.clickColor3.Name = "clickColor3";
+            this.clickColor3.Size = new System.Drawing.Size(33, 32);
+            this.clickColor3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.clickColor3.TabIndex = 1015;
+            this.clickColor3.TabStop = false;
+            this.clickColor3.Visible = false;
+            this.clickColor3.Click += new System.EventHandler(this.clickColor3_Click);
+            this.clickColor3.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
+            // 
+            // clickColor2
+            // 
+            this.clickColor2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.clickColor2.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
+            this.clickColor2.Location = new System.Drawing.Point(442, 90);
+            this.clickColor2.Name = "clickColor2";
+            this.clickColor2.Size = new System.Drawing.Size(33, 32);
+            this.clickColor2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.clickColor2.TabIndex = 1014;
+            this.clickColor2.TabStop = false;
+            this.clickColor2.Visible = false;
+            this.clickColor2.Click += new System.EventHandler(this.clickColor2_Click);
+            this.clickColor2.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
+            // 
+            // clickColor1
+            // 
+            this.clickColor1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.clickColor1.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
+            this.clickColor1.Location = new System.Drawing.Point(442, 9);
+            this.clickColor1.Name = "clickColor1";
+            this.clickColor1.Size = new System.Drawing.Size(33, 32);
+            this.clickColor1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.clickColor1.TabIndex = 1013;
+            this.clickColor1.TabStop = false;
+            this.clickColor1.Visible = false;
+            this.clickColor1.Click += new System.EventHandler(this.clickColor1_Click_1);
+            this.clickColor1.DoubleClick += new System.EventHandler(this.clickColor1_DoubleClick);
+            // 
+            // R1_BtnTrue5
+            // 
+            this.R1_BtnTrue5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_BtnTrue5.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R1_BtnTrue5.Location = new System.Drawing.Point(403, 359);
+            this.R1_BtnTrue5.Name = "R1_BtnTrue5";
+            this.R1_BtnTrue5.Size = new System.Drawing.Size(33, 32);
+            this.R1_BtnTrue5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R1_BtnTrue5.TabIndex = 962;
+            this.R1_BtnTrue5.TabStop = false;
+            this.R1_BtnTrue5.Visible = false;
+            this.R1_BtnTrue5.Click += new System.EventHandler(this.R1_BtnTrue5_Click);
+            // 
+            // R1_BtnTrue4
+            // 
+            this.R1_BtnTrue4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_BtnTrue4.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R1_BtnTrue4.Location = new System.Drawing.Point(403, 279);
+            this.R1_BtnTrue4.Name = "R1_BtnTrue4";
+            this.R1_BtnTrue4.Size = new System.Drawing.Size(33, 32);
+            this.R1_BtnTrue4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R1_BtnTrue4.TabIndex = 961;
+            this.R1_BtnTrue4.TabStop = false;
+            this.R1_BtnTrue4.Visible = false;
+            this.R1_BtnTrue4.Click += new System.EventHandler(this.R1_BtnTrue4_Click);
+            // 
+            // R1_BtnTrue3
+            // 
+            this.R1_BtnTrue3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_BtnTrue3.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R1_BtnTrue3.Location = new System.Drawing.Point(403, 201);
+            this.R1_BtnTrue3.Name = "R1_BtnTrue3";
+            this.R1_BtnTrue3.Size = new System.Drawing.Size(33, 32);
+            this.R1_BtnTrue3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R1_BtnTrue3.TabIndex = 960;
+            this.R1_BtnTrue3.TabStop = false;
+            this.R1_BtnTrue3.Visible = false;
+            this.R1_BtnTrue3.Click += new System.EventHandler(this.R1_BtnTrue3_Click);
+            // 
+            // R1_BtnTrue2
+            // 
+            this.R1_BtnTrue2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_BtnTrue2.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R1_BtnTrue2.Location = new System.Drawing.Point(403, 119);
+            this.R1_BtnTrue2.Name = "R1_BtnTrue2";
+            this.R1_BtnTrue2.Size = new System.Drawing.Size(33, 32);
+            this.R1_BtnTrue2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R1_BtnTrue2.TabIndex = 959;
+            this.R1_BtnTrue2.TabStop = false;
+            this.R1_BtnTrue2.Visible = false;
+            this.R1_BtnTrue2.Click += new System.EventHandler(this.R1_BtnTrue2_Click);
+            // 
+            // R1_BtnTrue1
+            // 
+            this.R1_BtnTrue1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_BtnTrue1.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R1_BtnTrue1.Location = new System.Drawing.Point(403, 43);
+            this.R1_BtnTrue1.Name = "R1_BtnTrue1";
+            this.R1_BtnTrue1.Size = new System.Drawing.Size(33, 32);
+            this.R1_BtnTrue1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R1_BtnTrue1.TabIndex = 958;
+            this.R1_BtnTrue1.TabStop = false;
+            this.R1_BtnTrue1.Visible = false;
+            this.R1_BtnTrue1.Click += new System.EventHandler(this.R1_BtnTrue1_Click);
+            // 
+            // R2_BtnTrue6
+            // 
+            this.R2_BtnTrue6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_BtnTrue6.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R2_BtnTrue6.Location = new System.Drawing.Point(307, 355);
+            this.R2_BtnTrue6.Name = "R2_BtnTrue6";
+            this.R2_BtnTrue6.Size = new System.Drawing.Size(33, 31);
+            this.R2_BtnTrue6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R2_BtnTrue6.TabIndex = 1772;
+            this.R2_BtnTrue6.TabStop = false;
+            this.R2_BtnTrue6.Visible = false;
+            this.R2_BtnTrue6.Click += new System.EventHandler(this.R2_BtnTrue6_Click);
+            this.R2_BtnTrue6.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
+            // 
+            // R2_BtnTrue5
+            // 
+            this.R2_BtnTrue5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_BtnTrue5.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R2_BtnTrue5.Location = new System.Drawing.Point(307, 291);
+            this.R2_BtnTrue5.Name = "R2_BtnTrue5";
+            this.R2_BtnTrue5.Size = new System.Drawing.Size(33, 31);
+            this.R2_BtnTrue5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R2_BtnTrue5.TabIndex = 1769;
+            this.R2_BtnTrue5.TabStop = false;
+            this.R2_BtnTrue5.Visible = false;
+            this.R2_BtnTrue5.Click += new System.EventHandler(this.R2_BtnTrue5_Click);
+            this.R2_BtnTrue5.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
+            // 
+            // R2_BtnTrue4
+            // 
+            this.R2_BtnTrue4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_BtnTrue4.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R2_BtnTrue4.Location = new System.Drawing.Point(308, 221);
+            this.R2_BtnTrue4.Name = "R2_BtnTrue4";
+            this.R2_BtnTrue4.Size = new System.Drawing.Size(33, 31);
+            this.R2_BtnTrue4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R2_BtnTrue4.TabIndex = 1766;
+            this.R2_BtnTrue4.TabStop = false;
+            this.R2_BtnTrue4.Visible = false;
+            this.R2_BtnTrue4.Click += new System.EventHandler(this.R2_BtnTrue4_Click);
+            this.R2_BtnTrue4.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
+            // 
+            // R2_BtnTrue3
+            // 
+            this.R2_BtnTrue3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_BtnTrue3.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R2_BtnTrue3.Location = new System.Drawing.Point(309, 160);
+            this.R2_BtnTrue3.Name = "R2_BtnTrue3";
+            this.R2_BtnTrue3.Size = new System.Drawing.Size(33, 31);
+            this.R2_BtnTrue3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R2_BtnTrue3.TabIndex = 1763;
+            this.R2_BtnTrue3.TabStop = false;
+            this.R2_BtnTrue3.Visible = false;
+            this.R2_BtnTrue3.Click += new System.EventHandler(this.R2_BtnTrue3_Click);
+            this.R2_BtnTrue3.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
+            // 
+            // R2_BtnTrue2
+            // 
+            this.R2_BtnTrue2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_BtnTrue2.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R2_BtnTrue2.Location = new System.Drawing.Point(309, 95);
+            this.R2_BtnTrue2.Name = "R2_BtnTrue2";
+            this.R2_BtnTrue2.Size = new System.Drawing.Size(33, 31);
+            this.R2_BtnTrue2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R2_BtnTrue2.TabIndex = 1760;
+            this.R2_BtnTrue2.TabStop = false;
+            this.R2_BtnTrue2.Visible = false;
+            this.R2_BtnTrue2.Click += new System.EventHandler(this.R2_BtnTrue2_Click);
+            this.R2_BtnTrue2.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
+            // 
+            // R2_BtnTrue1
+            // 
+            this.R2_BtnTrue1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_BtnTrue1.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R2_BtnTrue1.Location = new System.Drawing.Point(310, 31);
+            this.R2_BtnTrue1.Name = "R2_BtnTrue1";
+            this.R2_BtnTrue1.Size = new System.Drawing.Size(33, 31);
+            this.R2_BtnTrue1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R2_BtnTrue1.TabIndex = 980;
+            this.R2_BtnTrue1.TabStop = false;
+            this.R2_BtnTrue1.Visible = false;
+            this.R2_BtnTrue1.Click += new System.EventHandler(this.R2_BtnTrue1_Click);
+            this.R2_BtnTrue1.DoubleClick += new System.EventHandler(this.R2_BtnTrue1_DoubleClick);
+            // 
+            // R_BC_BtnTrue6
+            // 
+            this.R_BC_BtnTrue6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R_BC_BtnTrue6.Image = global::HoiThiDV.Properties.Resources.checkicon;
+            this.R_BC_BtnTrue6.Location = new System.Drawing.Point(445, 332);
+            this.R_BC_BtnTrue6.Name = "R_BC_BtnTrue6";
+            this.R_BC_BtnTrue6.Size = new System.Drawing.Size(33, 32);
+            this.R_BC_BtnTrue6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R_BC_BtnTrue6.TabIndex = 1066;
+            this.R_BC_BtnTrue6.TabStop = false;
+            this.R_BC_BtnTrue6.Visible = false;
+            this.R_BC_BtnTrue6.Click += new System.EventHandler(this.R_BC_BtnTrue6_Click);
+            // 
+            // R_BC_BtnStar6
+            // 
+            this.R_BC_BtnStar6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R_BC_BtnStar6.Image = global::HoiThiDV.Properties.Resources.giphy;
+            this.R_BC_BtnStar6.Location = new System.Drawing.Point(369, 332);
+            this.R_BC_BtnStar6.Name = "R_BC_BtnStar6";
+            this.R_BC_BtnStar6.Size = new System.Drawing.Size(33, 32);
+            this.R_BC_BtnStar6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R_BC_BtnStar6.TabIndex = 1062;
+            this.R_BC_BtnStar6.TabStop = false;
+            this.R_BC_BtnStar6.Click += new System.EventHandler(this.R_BC_BtnStar6_Click);
+            this.R_BC_BtnStar6.DoubleClick += new System.EventHandler(this.R_BC_BtnStar1_DoubleClick);
+            // 
+            // R_BC_BtnBell6
+            // 
+            this.R_BC_BtnBell6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R_BC_BtnBell6.Image = global::HoiThiDV.Properties.Resources.Bell_icon_1_11;
+            this.R_BC_BtnBell6.Location = new System.Drawing.Point(332, 332);
+            this.R_BC_BtnBell6.Name = "R_BC_BtnBell6";
+            this.R_BC_BtnBell6.Size = new System.Drawing.Size(33, 32);
+            this.R_BC_BtnBell6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R_BC_BtnBell6.TabIndex = 1063;
+            this.R_BC_BtnBell6.TabStop = false;
+            this.R_BC_BtnBell6.Click += new System.EventHandler(this.R_BC_BtnBell6_Click);
+            this.R_BC_BtnBell6.DoubleClick += new System.EventHandler(this.R_BC_BtnBell1_DoubleClick);
+            // 
+            // R_BC_BtnTrue_x2_6
+            // 
+            this.R_BC_BtnTrue_x2_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R_BC_BtnTrue_x2_6.Image = global::HoiThiDV.Properties.Resources.x2;
+            this.R_BC_BtnTrue_x2_6.Location = new System.Drawing.Point(408, 332);
+            this.R_BC_BtnTrue_x2_6.Name = "R_BC_BtnTrue_x2_6";
+            this.R_BC_BtnTrue_x2_6.Size = new System.Drawing.Size(33, 32);
+            this.R_BC_BtnTrue_x2_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R_BC_BtnTrue_x2_6.TabIndex = 1064;
+            this.R_BC_BtnTrue_x2_6.TabStop = false;
+            this.R_BC_BtnTrue_x2_6.Visible = false;
+            this.R_BC_BtnTrue_x2_6.Click += new System.EventHandler(this.R_BC_BtnTrue_x2_6_Click);
+            // 
+            // R_BC_BtnTrue_chia2_6
+            // 
+            this.R_BC_BtnTrue_chia2_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R_BC_BtnTrue_chia2_6.Image = ((System.Drawing.Image)(resources.GetObject("R_BC_BtnTrue_chia2_6.Image")));
+            this.R_BC_BtnTrue_chia2_6.Location = new System.Drawing.Point(481, 332);
+            this.R_BC_BtnTrue_chia2_6.Name = "R_BC_BtnTrue_chia2_6";
+            this.R_BC_BtnTrue_chia2_6.Size = new System.Drawing.Size(33, 32);
+            this.R_BC_BtnTrue_chia2_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.R_BC_BtnTrue_chia2_6.TabIndex = 1065;
+            this.R_BC_BtnTrue_chia2_6.TabStop = false;
+            this.R_BC_BtnTrue_chia2_6.Visible = false;
+            this.R_BC_BtnTrue_chia2_6.Click += new System.EventHandler(this.R_BC_BtnTrue_chia2_6_Click);
             // 
             // R_BC_BtnTrue5
             // 
@@ -24004,161 +24151,14 @@
             this.R_BC_BtnTrue1.Visible = false;
             this.R_BC_BtnTrue1.Click += new System.EventHandler(this.R_BC_BtnTrue1_Click);
             // 
-            // MenuRight
-            // 
-            this.MenuRight.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.MenuRight.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.cmdScreenTeam,
-            this.cmdScreenJudges,
-            this.cmdScreenJudges1doi,
-            this.cmdScreenRound1,
-            this.cmdScreenRound2,
-            this.cmdScreenRound_GT,
-            this.cmdScreenRound_BC});
-            this.MenuRight.Name = "MenuRight";
-            this.MenuRight.Size = new System.Drawing.Size(218, 158);
-            // 
-            // cmdScreenTeam
-            // 
-            this.cmdScreenTeam.Name = "cmdScreenTeam";
-            this.cmdScreenTeam.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenTeam.Text = "Màn hình Đội thi";
-            this.cmdScreenTeam.Click += new System.EventHandler(this.cmdScreenTeam_Click);
-            // 
-            // cmdScreenJudges
-            // 
-            this.cmdScreenJudges.Name = "cmdScreenJudges";
-            this.cmdScreenJudges.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenJudges.Text = "Màn hình Giám khảo";
-            this.cmdScreenJudges.Click += new System.EventHandler(this.cmdScreenJudges_Click);
-            // 
-            // cmdScreenJudges1doi
-            // 
-            this.cmdScreenJudges1doi.Name = "cmdScreenJudges1doi";
-            this.cmdScreenJudges1doi.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenJudges1doi.Text = "Màn hình Giám khảo 1 đội";
-            this.cmdScreenJudges1doi.Click += new System.EventHandler(this.cmdScreenJudges1doi_Click);
-            // 
-            // cmdScreenRound1
-            // 
-            this.cmdScreenRound1.Name = "cmdScreenRound1";
-            this.cmdScreenRound1.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenRound1.Text = "Màn hình Khởi động";
-            this.cmdScreenRound1.Click += new System.EventHandler(this.cmdScreenRound1_Click);
-            // 
-            // cmdScreenRound2
-            // 
-            this.cmdScreenRound2.Name = "cmdScreenRound2";
-            this.cmdScreenRound2.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenRound2.Text = "Màn hình GIẢI Ô CHỮ";
-            this.cmdScreenRound2.Click += new System.EventHandler(this.cmdScreenRound2_Click);
-            // 
-            // cmdScreenRound_GT
-            // 
-            this.cmdScreenRound_GT.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.startToolStripMenuItem,
-            this.pauseToolStripMenuItem,
-            this.stopToolStripMenuItem,
-            this.change2MinsToolStripMenuItem,
-            this.change3MinsToolStripMenuItem,
-            this.change5MinsToolStripMenuItem,
-            this.change7MinsToolStripMenuItem});
-            this.cmdScreenRound_GT.Name = "cmdScreenRound_GT";
-            this.cmdScreenRound_GT.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenRound_GT.Text = "Màn hình Giới thiệu";
-            this.cmdScreenRound_GT.Visible = false;
-            this.cmdScreenRound_GT.Click += new System.EventHandler(this.cmdScreenRound_GT_Click);
-            // 
-            // startToolStripMenuItem
-            // 
-            this.startToolStripMenuItem.Name = "startToolStripMenuItem";
-            this.startToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
-            | System.Windows.Forms.Keys.S)));
-            this.startToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.startToolStripMenuItem.Text = "Start";
-            this.startToolStripMenuItem.Click += new System.EventHandler(this.startToolStripMenuItem_Click);
-            // 
-            // pauseToolStripMenuItem
-            // 
-            this.pauseToolStripMenuItem.Name = "pauseToolStripMenuItem";
-            this.pauseToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
-            | System.Windows.Forms.Keys.X)));
-            this.pauseToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.pauseToolStripMenuItem.Text = "Pause";
-            this.pauseToolStripMenuItem.Click += new System.EventHandler(this.pauseToolStripMenuItem_Click);
-            // 
-            // stopToolStripMenuItem
-            // 
-            this.stopToolStripMenuItem.Name = "stopToolStripMenuItem";
-            this.stopToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
-            | System.Windows.Forms.Keys.V)));
-            this.stopToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.stopToolStripMenuItem.Text = "Stop";
-            this.stopToolStripMenuItem.Click += new System.EventHandler(this.stopToolStripMenuItem_Click);
-            // 
-            // change2MinsToolStripMenuItem
-            // 
-            this.change2MinsToolStripMenuItem.Name = "change2MinsToolStripMenuItem";
-            this.change2MinsToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.change2MinsToolStripMenuItem.Text = "Change 2 Mins (Suy nghĩ)";
-            this.change2MinsToolStripMenuItem.Click += new System.EventHandler(this.change2MinsToolStripMenuItem_Click);
-            // 
-            // change3MinsToolStripMenuItem
-            // 
-            this.change3MinsToolStripMenuItem.Name = "change3MinsToolStripMenuItem";
-            this.change3MinsToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.change3MinsToolStripMenuItem.Text = "Change 3 Mins (Hùng biện)";
-            this.change3MinsToolStripMenuItem.Click += new System.EventHandler(this.change3MinsToolStripMenuItem_Click);
-            // 
-            // change5MinsToolStripMenuItem
-            // 
-            this.change5MinsToolStripMenuItem.Name = "change5MinsToolStripMenuItem";
-            this.change5MinsToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.change5MinsToolStripMenuItem.Text = "Change 5 Mins (Giới thiệu)";
-            this.change5MinsToolStripMenuItem.Click += new System.EventHandler(this.change5MinsToolStripMenuItem_Click);
-            // 
-            // change7MinsToolStripMenuItem
-            // 
-            this.change7MinsToolStripMenuItem.Name = "change7MinsToolStripMenuItem";
-            this.change7MinsToolStripMenuItem.Size = new System.Drawing.Size(220, 22);
-            this.change7MinsToolStripMenuItem.Text = "Change 7 Mins";
-            this.change7MinsToolStripMenuItem.Click += new System.EventHandler(this.change7MinsToolStripMenuItem_Click);
-            // 
-            // cmdScreenRound_BC
-            // 
-            this.cmdScreenRound_BC.Name = "cmdScreenRound_BC";
-            this.cmdScreenRound_BC.Size = new System.Drawing.Size(217, 22);
-            this.cmdScreenRound_BC.Text = "Màn hình HIỂU NGHIỆP VỤ";
-            this.cmdScreenRound_BC.Click += new System.EventHandler(this.cmdScreenRound_BC_Click);
-            // 
-            // R1_Timer
-            // 
-            this.R1_Timer.Interval = 15;
-            this.R1_Timer.Tick += new System.EventHandler(this.R1_Timer_Tick);
-            // 
-            // R2_Timer
-            // 
-            this.R2_Timer.Interval = 10;
-            this.R2_Timer.Tick += new System.EventHandler(this.R2_Timer_Tick);
-            // 
-            // R_GT_Timer
-            // 
-            this.R_GT_Timer.Interval = 1000;
-            this.R_GT_Timer.Tick += new System.EventHandler(this.R_GT_Timer_Tick);
-            // 
-            // R_BC_Timer
-            // 
-            this.R_BC_Timer.Interval = 1000;
-            this.R_BC_Timer.Tick += new System.EventHandler(this.R_BC_Timer_Tick);
-            // 
             // panel1
             // 
-            this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
+            this.panel1.BackgroundImage = global::HoiThiDV.Properties.Resources.banner_nhx;
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1284, 107);
+            this.panel1.Size = new System.Drawing.Size(1284, 108);
             this.panel1.TabIndex = 1;
             // 
             // FormServer
@@ -24186,21 +24186,9 @@
             this.tabTeamConfig.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.tabJudgesConfig.ResumeLayout(false);
             this.panel39.ResumeLayout(false);
             this.panel39.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             this.tabRound1Config.ResumeLayout(false);
             this.tabRound1Config.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.C2_GridKhoiDong)).EndInit();
@@ -24221,23 +24209,8 @@
             this.panel6.ResumeLayout(false);
             this.panel26.ResumeLayout(false);
             this.panel27.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.clickColor1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue1)).EndInit();
             this.tabRound2.ResumeLayout(false);
             this.tabRound2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue2)).EndInit();
             this.pn5.ResumeLayout(false);
             this.pn4.ResumeLayout(false);
             this.pn3.ResumeLayout(false);
@@ -24258,7 +24231,6 @@
             this.panel23.ResumeLayout(false);
             this.panel24.ResumeLayout(false);
             this.panel25.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue1)).EndInit();
             this.tabGioiThieu.ResumeLayout(false);
             this.tabGioiThieu.PerformLayout();
             this.panel15.ResumeLayout(false);
@@ -24275,11 +24247,6 @@
             this.panel38.ResumeLayout(false);
             this.tabBamChuong.ResumeLayout(false);
             this.tabBamChuong.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnStar6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnBell6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_x2_6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_chia2_6)).EndInit();
             this.panel40.ResumeLayout(false);
             this.panel52.ResumeLayout(false);
             this.panel53.ResumeLayout(false);
@@ -24295,6 +24262,40 @@
             this.panel49.ResumeLayout(false);
             this.panel50.ResumeLayout(false);
             this.panel51.ResumeLayout(false);
+            this.MenuRight.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.clickColor1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R1_BtnTrue1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R2_BtnTrue1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnStar6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnBell6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_x2_6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_chia2_6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue3)).EndInit();
@@ -24320,7 +24321,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_chia2_1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue_x2_1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.R_BC_BtnTrue1)).EndInit();
-            this.MenuRight.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
