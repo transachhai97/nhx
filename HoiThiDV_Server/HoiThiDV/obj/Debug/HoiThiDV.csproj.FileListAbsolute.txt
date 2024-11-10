@@ -1,0 +1,392 @@
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Projects\CSharpProjects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\Tien Minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\mscorlib.dll
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\normidna.nlp
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\normnfc.nlp
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\normnfd.nlp
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\normnfkc.nlp
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\bin\Debug\normnfkd.nlp
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\20. CODE\RESEARCH\HOITHIDICHVU\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Projects\CSharpProjects\HoiThiDV_20180908\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_20181509\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\mscorlib.dll
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\normidna.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\normnfc.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\normnfd.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\normnfkc.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\normnfkd.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojAssemblyReference.cache
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\C#\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\abcxyz\TanNV2_1\TanNV2\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\www\bidv\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\2810\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.dll
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.dll
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\Newtonsoft.Json.xml
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\bin\Debug\System.Net.Http.Formatting.xml
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.More.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.ChangeScore.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.FormServer.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.csproj.Up2Date
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDV_Server\HoiThiDV\obj\Debug\HoiThiDV.pdb

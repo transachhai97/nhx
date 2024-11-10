@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|f:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\hoithidvpresent_1366x768\\hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\model\\dataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\dataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\timeteam4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\timeteam4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\gioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\gioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\bamchuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\bamchuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\tangtoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\tangtoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\doi6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\doi6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\tangtoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\tangtoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\bamchuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\bamchuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer26_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer26_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team6vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team6vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer26_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer26_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team6vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team6vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5vd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5vd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5vd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer26_bc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer26_bc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\tangtoc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\tangtoc2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer26.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer26.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer25_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer25_bc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25_bc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer25.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer25_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\doi6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\doi6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\doi6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\doi6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24_bc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\model\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teammanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teammanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contestant.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\Contestant.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\Contestant.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:12:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamAnswer24.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAhwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhoiDong.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\KhoiDong.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\KhoiDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:33:30.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team5.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\Team5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Team4.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team4.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team4.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team4.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\Team4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Form1.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamAnswer26_BC.cs",
+              "DocumentMoniker": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:28:12.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamAnswer24.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamAnswer25.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer25.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhoiDong.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\KhoiDong.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\KhoiDong.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAhwHUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.716Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamAnswer25.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer25.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Controller\\MasterController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\MasterController.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Controller\\MasterController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\MasterController.cs",
+              "ViewState": "AgIAANICAAAAAAAAAAAjwNsCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeamAnswer2.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer2.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer2.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer2.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:31:04.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataServer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\DataServer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\DataServer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\DataServer.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\DataServer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeTeam4.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TimeTeam4.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TimeTeam4.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TimeTeam4.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\TimeTeam4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:05:03.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Team5.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Team5.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeamAnswer26_BC.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BamChuong.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\BamChuong.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\BamChuong.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\BamChuong.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\BamChuong.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAANIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GioiThieu.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\GioiThieu.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\GioiThieu.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\GioiThieu.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\GioiThieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:39.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Team6.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team6.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BamChuong.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\BamChuong.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\BamChuong.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\BamChuong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\BamChuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Doi6.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Doi6.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TangToc.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TangToc.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TangToc.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TangToc.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc.cs*",
+              "ViewState": "AQIAAI8DAAAAAAAAAAAAAKcDAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamAnswer26.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer26.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamAnswer26.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer26.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer26.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAcwHMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamAnswer26_BC.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer26_BC.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAkwM0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Team6.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team6.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Team6.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Team6VD.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6VD.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team6VD.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6VD.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6VD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Team6VD.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6VD.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team6VD.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team6VD.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Team6VD.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Team5VD.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5VD.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Team5VD.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Team5VD.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5VD.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Team5VD.Designer.cs",
+              "ViewState": "AQIAAN0BAAAAAAAAAAAqwPEBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-29T01:38:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Team5VD.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5VD.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5VD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeamAnswer26_BC.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer26_BC.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer26_BC.Designer.cs",
+              "ViewState": "AQIAAFgCAAAAAAAAAAAowFwCAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-29T01:38:18.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TangToc2.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc2.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TangToc2.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TangToc2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeamAnswer25_BC.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25_BC.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer25_BC.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TeamAnswer25_BC.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25_BC.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer25_BC.Designer.cs",
+              "ViewState": "AQIAAMQBAAAAAAAAAAAgwOMBAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-29T01:38:18.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TeamAnswer26.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer26.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer26.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer26.Designer.cs",
+              "ViewState": "AQIAAOgBAAAAAAAAAAAAwDACAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-29T01:38:18.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TeamAnswer25.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer25.Designer.cs",
+              "ViewState": "AgIAAN0BAAAAAAAAAAAAwO4BAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TeamAnswer25_BC.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25_BC.cs",
+              "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25_BC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Form1.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs",
+              "RelativeToolTip": "HoiThiDV\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Doi6.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Doi6.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Doi6.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAvwEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Doi6.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Doi6.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Doi6.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\Doi6.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYBAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-10-29T01:38:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TeamAnswer24_BC.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24_BC.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24_BC.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24_BC.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24_BC.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwLoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Constant.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\Constant.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Constant.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TeamManage.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamManage.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamManage.cs",
+              "ToolTip": "F:\\www\\bidv\\vhksrr\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamManage.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\bidv\\vhksrr\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamManage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-10-29T01:38:18.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

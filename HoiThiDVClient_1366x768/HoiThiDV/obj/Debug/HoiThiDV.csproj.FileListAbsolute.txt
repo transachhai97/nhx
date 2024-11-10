@@ -1,0 +1,477 @@
+c:\users\tien minh\documents\visual studio 2015\Projects\HoiThiDV\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+C:\Users\Tien Minh\Documents\Visual Studio 2015\Projects\HoiThiDVClient_20180908\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20181409\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\CODE\OLYMPIA\HoiThiDichVuFinal\20180918\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+C:\Users\bts\Desktop\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\mscorlib.dll
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\normidna.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\normnfc.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\normnfd.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\normnfkc.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\normnfkd.nlp
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csprojResolveAssemblyReference.cache
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\3. WORKSPACE\HOI THI DICH VU\Hoi thi dich vu\Hoi thi dich vu\TanNV2\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.Cache
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Long_Work\VHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csprojAssemblyReference.cache
+C:\Users\ROGER\Music\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.UserControl1.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.UserControl1.resources
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\source\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\www\bidv\HoiThiVHKSRR\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage6.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage5.resources
+F:\www\bidv\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage4.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\www\bidv\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\DELL\Desktop\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+D:\Long_Work\VHKSRR01\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\1310\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Work from home\vhksrr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+D:\Long_Work\VHKSRR01\2410\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+C:\Users\ADMIN\OneDrive - University of Lincoln\Desktop\rr\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.SuggestedBindingRedirects.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CopyComplete
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer26_BC.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer26.resources
+F:\git-bidv\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Doi6.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe.config
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.exe
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\bin\Debug\HoiThiDV.pdb
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.AssemblyReference.cache
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Form1.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.Properties.Resources.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.GioiThieu.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BamChuong.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.KhoiDong.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TangToc2.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team4.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Doi6.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team5.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.Team6VD.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer2.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.BanGiamKhao.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24_BC.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer24.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer26_BC.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer26.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25_BC.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamAnswer25.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.View.TeamManage.resources
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.GenerateResource.cache
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.CoreCompileInputs.cache
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.csproj.Up2Date
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.exe
+F:\www\ngan-hang-xanh\source\hoithivhksrr\0909\source\HoiThiDVClient_1366x768\HoiThiDV\obj\Debug\HoiThiDV.pdb

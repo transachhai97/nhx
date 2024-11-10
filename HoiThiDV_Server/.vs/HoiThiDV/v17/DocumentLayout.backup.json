@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|f:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\hoithidv_server\\hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\controller\\cauhinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\cauhinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\dao\\questiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\dao\\questiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\changescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\changescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\dataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\dataserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\dao\\contestantdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\dao\\contestantdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\controller\\khoidongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\khoidongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\more.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\more.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\dao\\gameplaydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\dao\\gameplaydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\changescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\changescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\controller\\tangtoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\tangtoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\controller\\bamchuongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\bamchuongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\dao\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\dao\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\more.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\more.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\sendobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\sendobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\simplecontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\simplecontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\pingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\pingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\MasterController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\MasterController.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\MasterController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\MasterController.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAAAL0BAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormServer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\FormServer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
+              "RelativeToolTip": "HoiThiDV\\FormServer.cs",
+              "ViewState": "AgIAAAcEAAAAAAAAAAAQwBsEAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:42:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormServer.Designer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.Designer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\FormServer.Designer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.Designer.cs",
+              "RelativeToolTip": "HoiThiDV\\FormServer.Designer.cs",
+              "ViewState": "AgIAAA0MAAAAAAAAAAD4vxQMAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:13:18.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormServer.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\FormServer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\FormServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:32:20.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeScore.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\ChangeScore.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\ChangeScore.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\ChangeScore.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\ChangeScore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CauHinhController.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\CauHinhController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\CauHinhController.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\CauHinhController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\CauHinhController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\Question.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Question.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\Question.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contestant.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Contestant.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\Contestant.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Contestant.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\Contestant.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionDAO.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\QuestionDAO.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\DAO\\QuestionDAO.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\QuestionDAO.cs",
+              "RelativeToolTip": "HoiThiDV\\DAO\\QuestionDAO.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataServer.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\DataServer.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\DataServer.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\DataServer.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\DataServer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "More.cs [Design]",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\More.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\More.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\More.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\More.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhoiDongController.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\KhoiDongController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\KhoiDongController.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\KhoiDongController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\KhoiDongController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContestantDAO.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\ContestantDAO.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\DAO\\ContestantDAO.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\ContestantDAO.cs",
+              "RelativeToolTip": "HoiThiDV\\DAO\\ContestantDAO.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAqwJIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TangTocController.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\TangTocController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\TangTocController.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\TangTocController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\TangTocController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwD8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GamePlayDAO.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\GamePlayDAO.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\DAO\\GamePlayDAO.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\GamePlayDAO.cs",
+              "RelativeToolTip": "HoiThiDV\\DAO\\GamePlayDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangeScore.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\ChangeScore.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\ChangeScore.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\ChangeScore.cs",
+              "RelativeToolTip": "HoiThiDV\\ChangeScore.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:04:18.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Constant.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\Constant.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Constant.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\Constant.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:11.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BamChuongController.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\BamChuongController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\BamChuongController.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\BamChuongController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\BamChuongController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\packages.config",
+              "RelativeDocumentMoniker": "HoiThiDV\\packages.config",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\packages.config",
+              "RelativeToolTip": "HoiThiDV\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T01:30:12.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\DAO\\ConnectDB.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\ConnectDB.cs",
+              "RelativeToolTip": "HoiThiDV\\DAO\\ConnectDB.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SendObject.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\SendObject.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\SendObject.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\SendObject.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\SendObject.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "More.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\More.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\More.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\More.cs",
+              "RelativeToolTip": "HoiThiDV\\More.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PingData.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\PingData.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\PingData.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\PingData.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\PingData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Message.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Message.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\Message.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Message.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SimpleContest.cs",
+              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\SimpleContest.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Model\\SimpleContest.cs",
+              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\SimpleContest.cs",
+              "RelativeToolTip": "HoiThiDV\\Model\\SimpleContest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:30:12.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
