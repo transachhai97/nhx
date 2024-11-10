@@ -38,6 +38,15 @@ namespace HoiThiDV.View
         {
             _lblAnswer.Text = "";
             lblAnswerCT.Text = "";
+            //titleAnswer.Text = "Câu " + data.QuestionNum;
+            if (data.questionRound == 9)
+            {
+                titleAnswer.Text = "DỰ PHÒNG - CÂU " + data.QuestionNum;
+            }
+            else
+            {
+                titleAnswer.Text = "CÂU " + data.QuestionNum;
+            }
             score = "0";
             resetForm(data);
         }
@@ -90,6 +99,7 @@ namespace HoiThiDV.View
         {
             _lblAnswer.Text = "Đáp án: ";
             lblAnswerCT.Text = data.QuestionAnswer;
+            titleAnswer.Text = "Đáp án: " + data.QuestionAnswer;
         }
 
         public void showBell(DataServer data)
