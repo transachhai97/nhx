@@ -116,10 +116,10 @@
             this.R1_Question.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.R1_Question.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.R1_Question.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(208)))), ((int)(((byte)(151)))));
             this.R1_Question.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.R1_Question.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Question.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(255)))));
+            this.R1_Question.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R1_Question.Location = new System.Drawing.Point(3, 3);
             this.R1_Question.Name = "R1_Question";
             this.R1_Question.ReadOnly = true;
@@ -150,7 +150,7 @@
             // 
             // panel11
             // 
-            this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.panel11.Controls.Add(this.label2);
             this.panel11.Controls.Add(this.lblSecond);
             this.panel11.Controls.Add(this.lblMin);
@@ -175,7 +175,7 @@
             // 
             // lblSecond
             // 
-            this.lblSecond.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.lblSecond.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.lblSecond.Font = new System.Drawing.Font("Segoe UI", 69.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSecond.ForeColor = System.Drawing.Color.White;
             this.lblSecond.Location = new System.Drawing.Point(207, 33);
@@ -238,7 +238,7 @@
             // 
             // R1_Point5
             // 
-            this.R1_Point5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Point5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point5.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Point5.ForeColor = System.Drawing.Color.White;
@@ -261,7 +261,7 @@
             // 
             // R1_Point4
             // 
-            this.R1_Point4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Point4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point4.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Point4.ForeColor = System.Drawing.Color.White;
@@ -284,7 +284,7 @@
             // 
             // R1_Point3
             // 
-            this.R1_Point3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Point3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point3.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Point3.ForeColor = System.Drawing.Color.White;
@@ -307,7 +307,7 @@
             // 
             // R1_Point2
             // 
-            this.R1_Point2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Point2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point2.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Point2.ForeColor = System.Drawing.Color.White;
@@ -330,7 +330,7 @@
             // 
             // R1_Team5
             // 
-            this.R1_Team5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Team5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team5.ForeColor = System.Drawing.Color.White;
@@ -353,7 +353,7 @@
             // 
             // R1_Team4
             // 
-            this.R1_Team4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Team4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team4.ForeColor = System.Drawing.Color.White;
@@ -376,7 +376,7 @@
             // 
             // R1_Team3
             // 
-            this.R1_Team3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Team3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team3.ForeColor = System.Drawing.Color.White;
@@ -399,7 +399,7 @@
             // 
             // R1_Team2
             // 
-            this.R1_Team2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Team2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team2.ForeColor = System.Drawing.Color.White;
@@ -422,7 +422,7 @@
             // 
             // R1_Team1
             // 
-            this.R1_Team1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Team1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team1.ForeColor = System.Drawing.Color.White;
@@ -445,7 +445,7 @@
             // 
             // R1_Point1
             // 
-            this.R1_Point1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.R1_Point1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point1.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Point1.ForeColor = System.Drawing.Color.White;
@@ -462,7 +462,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label29.AutoSize = true;
-            this.label29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.label29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(184)))), ((int)(((byte)(123)))));
             this.label29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.White;

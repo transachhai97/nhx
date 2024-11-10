@@ -48,8 +48,8 @@ namespace HoiThiDV.View
         {
             for (int i = 1; i <= data.ContestTeams.Count; i++)
             {
-                CompBackColor("R3_Team" + i, Color.FromArgb(255, 198, 47));//màu vàng (mặc định)
-                CompForeColor("R3_Team" + i, Color.FromArgb(0, 82, 78));//màu xanh (mặc định)
+                CompBackColor("R3_Team" + i, Color.FromArgb(1, 123, 110));//màu vàng (mặc định)
+                CompForeColor("R3_Team" + i, Color.White);
             }
 
             if (data != null && data.ContestTeams != null)

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\demo\\0909\\source\\HoiThiDV_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|d:\\demo\\0909\\source\\hoithidv_server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|d:\\demo\\0909\\source\\hoithidv_server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -128,7 +128,7 @@
               "RelativeDocumentMoniker": "HoiThiDV\\FormServer.cs",
               "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
               "RelativeToolTip": "HoiThiDV\\FormServer.cs",
-              "ViewState": "AgIAAG4BAAAAAAAAAAAAAHoBAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABwBAAAAAAAAAAAQwHoBAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T13:42:56.787Z",
               "EditorCaption": ""
@@ -143,8 +143,7 @@
               "RelativeToolTip": "HoiThiDV\\FormServer.Designer.cs",
               "ViewState": "AgIAAA0MAAAAAAAAAAD4vxQMAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:13:18.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T02:13:18.295Z"
             },
             {
               "$type": "Document",
@@ -155,8 +154,7 @@
               "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs [Design]",
               "RelativeToolTip": "HoiThiDV\\FormServer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:32:20.618Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T01:32:20.618Z"
             },
             {
               "$type": "Document",

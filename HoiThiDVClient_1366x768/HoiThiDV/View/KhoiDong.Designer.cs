@@ -92,7 +92,7 @@
             this.tableLayoutPanel1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.tableLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(186)))), ((int)(((byte)(132)))));
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 35F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65F));
@@ -127,7 +127,7 @@
             this.tableLayoutPanel5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.tableLayoutPanel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.tableLayoutPanel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(208)))), ((int)(((byte)(151)))));
             this.tableLayoutPanel5.ColumnCount = 1;
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel5.Controls.Add(this.tableLayoutPanel6, 0, 0);
@@ -163,9 +163,9 @@
             this.R1_TeamAnswer.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.R1_TeamAnswer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_TeamAnswer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(229)))), ((int)(((byte)(226)))));
             this.R1_TeamAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_TeamAnswer.ForeColor = System.Drawing.Color.Yellow;
+            this.R1_TeamAnswer.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R1_TeamAnswer.Location = new System.Drawing.Point(240, 0);
             this.R1_TeamAnswer.Margin = new System.Windows.Forms.Padding(0, 0, 3, 0);
             this.R1_TeamAnswer.Name = "R1_TeamAnswer";
@@ -179,9 +179,9 @@
             this.R2_LblAnswer.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.R2_LblAnswer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R2_LblAnswer.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(229)))), ((int)(((byte)(226)))));
             this.R2_LblAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R2_LblAnswer.ForeColor = System.Drawing.Color.Yellow;
+            this.R2_LblAnswer.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R2_LblAnswer.Location = new System.Drawing.Point(3, 0);
             this.R2_LblAnswer.Margin = new System.Windows.Forms.Padding(3, 0, 0, 0);
             this.R2_LblAnswer.Name = "R2_LblAnswer";
@@ -238,8 +238,9 @@
             this.R1_TxtAnswer.Location = new System.Drawing.Point(3, 3);
             this.R1_TxtAnswer.MaxLength = 100;
             this.R1_TxtAnswer.Name = "R1_TxtAnswer";
-            this.R1_TxtAnswer.Size = new System.Drawing.Size(794, 68);
+            this.R1_TxtAnswer.Size = new System.Drawing.Size(794, 83);
             this.R1_TxtAnswer.TabIndex = 1;
+            this.R1_TxtAnswer.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.R1_TxtAnswer.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.R1_TxtAnswer_KeyPress);
             // 
             // R1_Question
@@ -247,10 +248,10 @@
             this.R1_Question.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.R1_Question.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R1_Question.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(208)))), ((int)(((byte)(151)))));
             this.R1_Question.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.R1_Question.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Question.ForeColor = System.Drawing.Color.White;
+            this.R1_Question.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R1_Question.Location = new System.Drawing.Point(3, 3);
             this.R1_Question.Name = "R1_Question";
             this.R1_Question.ReadOnly = true;
@@ -280,7 +281,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(104)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.lblSecond);
             this.panel1.Controls.Add(this.lblMin);
@@ -298,14 +299,14 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(220, 70);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 46);
+            this.label2.Size = new System.Drawing.Size(40, 58);
             this.label2.TabIndex = 6;
             this.label2.Text = ":";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblSecond
             // 
-            this.lblSecond.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(104)))));
+            this.lblSecond.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.lblSecond.Font = new System.Drawing.Font("Segoe UI", 69.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSecond.ForeColor = System.Drawing.Color.White;
             this.lblSecond.Location = new System.Drawing.Point(222, 28);
@@ -368,7 +369,7 @@
             // 
             // R1_Team5
             // 
-            this.R1_Team5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R1_Team5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team5.ForeColor = System.Drawing.Color.White;
@@ -391,11 +392,11 @@
             // 
             // R1_Point5
             // 
-            this.R1_Point5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(198)))), ((int)(((byte)(47)))));
+            this.R1_Point5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.R1_Point5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point5.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Point5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_Point5.ForeColor = System.Drawing.Color.White;
             this.R1_Point5.Location = new System.Drawing.Point(0, 0);
             this.R1_Point5.Margin = new System.Windows.Forms.Padding(0);
             this.R1_Point5.Name = "R1_Point5";
@@ -415,7 +416,7 @@
             // 
             // R1_Team4
             // 
-            this.R1_Team4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R1_Team4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team4.ForeColor = System.Drawing.Color.White;
@@ -438,11 +439,11 @@
             // 
             // R1_Point4
             // 
-            this.R1_Point4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(198)))), ((int)(((byte)(47)))));
+            this.R1_Point4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.R1_Point4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point4.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Point4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_Point4.ForeColor = System.Drawing.Color.White;
             this.R1_Point4.Location = new System.Drawing.Point(0, 0);
             this.R1_Point4.Margin = new System.Windows.Forms.Padding(0);
             this.R1_Point4.Name = "R1_Point4";
@@ -462,7 +463,7 @@
             // 
             // R1_Team3
             // 
-            this.R1_Team3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R1_Team3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team3.ForeColor = System.Drawing.Color.White;
@@ -485,11 +486,11 @@
             // 
             // R1_Point3
             // 
-            this.R1_Point3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(198)))), ((int)(((byte)(47)))));
+            this.R1_Point3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.R1_Point3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point3.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Point3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_Point3.ForeColor = System.Drawing.Color.White;
             this.R1_Point3.Location = new System.Drawing.Point(0, 0);
             this.R1_Point3.Margin = new System.Windows.Forms.Padding(0);
             this.R1_Point3.Name = "R1_Point3";
@@ -509,7 +510,7 @@
             // 
             // R1_Team2
             // 
-            this.R1_Team2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R1_Team2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team2.ForeColor = System.Drawing.Color.White;
@@ -532,11 +533,11 @@
             // 
             // R1_Point2
             // 
-            this.R1_Point2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(198)))), ((int)(((byte)(47)))));
+            this.R1_Point2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.R1_Point2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point2.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Point2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_Point2.ForeColor = System.Drawing.Color.White;
             this.R1_Point2.Location = new System.Drawing.Point(0, 0);
             this.R1_Point2.Margin = new System.Windows.Forms.Padding(0);
             this.R1_Point2.Name = "R1_Point2";
@@ -556,7 +557,7 @@
             // 
             // R1_Team1
             // 
-            this.R1_Team1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R1_Team1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R1_Team1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Team1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R1_Team1.ForeColor = System.Drawing.Color.White;
@@ -579,11 +580,11 @@
             // 
             // R1_Point1
             // 
-            this.R1_Point1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(198)))), ((int)(((byte)(47)))));
+            this.R1_Point1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.R1_Point1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.R1_Point1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R1_Point1.Font = new System.Drawing.Font("Microsoft Sans Serif", 38.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R1_Point1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.R1_Point1.ForeColor = System.Drawing.Color.White;
             this.R1_Point1.Location = new System.Drawing.Point(0, 0);
             this.R1_Point1.Margin = new System.Windows.Forms.Padding(0);
             this.R1_Point1.Name = "R1_Point1";
@@ -597,7 +598,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label29.AutoSize = true;
-            this.label29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(82)))), ((int)(((byte)(78)))));
+            this.label29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(184)))), ((int)(((byte)(123)))));
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.White;
             this.label29.Location = new System.Drawing.Point(3, 391);

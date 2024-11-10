@@ -68,7 +68,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(1300, 67);
@@ -155,7 +155,7 @@
             // 
             // R3_Time4
             // 
-            this.R3_Time4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Time4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R3_Time4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Time4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R3_Time4.ForeColor = System.Drawing.Color.White;
@@ -169,10 +169,10 @@
             // R3_Answer4
             // 
             this.R3_Answer4.AutoSize = true;
-            this.R3_Answer4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Answer4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(229)))), ((int)(((byte)(226)))));
             this.R3_Answer4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Answer4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R3_Answer4.ForeColor = System.Drawing.Color.White;
+            this.R3_Answer4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R3_Answer4.Location = new System.Drawing.Point(3, 0);
             this.R3_Answer4.Name = "R3_Answer4";
             this.R3_Answer4.Size = new System.Drawing.Size(909, 68);
@@ -210,7 +210,7 @@
             // 
             // R3_Time3
             // 
-            this.R3_Time3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Time3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R3_Time3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Time3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R3_Time3.ForeColor = System.Drawing.Color.White;
@@ -224,10 +224,10 @@
             // R3_Answer3
             // 
             this.R3_Answer3.AutoSize = true;
-            this.R3_Answer3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Answer3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(229)))), ((int)(((byte)(226)))));
             this.R3_Answer3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Answer3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R3_Answer3.ForeColor = System.Drawing.Color.White;
+            this.R3_Answer3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R3_Answer3.Location = new System.Drawing.Point(3, 0);
             this.R3_Answer3.Name = "R3_Answer3";
             this.R3_Answer3.Size = new System.Drawing.Size(909, 68);
@@ -265,7 +265,7 @@
             // 
             // R3_Time2
             // 
-            this.R3_Time2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Time2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R3_Time2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Time2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R3_Time2.ForeColor = System.Drawing.Color.White;
@@ -279,10 +279,10 @@
             // R3_Answer2
             // 
             this.R3_Answer2.AutoSize = true;
-            this.R3_Answer2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Answer2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(229)))), ((int)(((byte)(226)))));
             this.R3_Answer2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Answer2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R3_Answer2.ForeColor = System.Drawing.Color.White;
+            this.R3_Answer2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R3_Answer2.Location = new System.Drawing.Point(3, 0);
             this.R3_Answer2.Name = "R3_Answer2";
             this.R3_Answer2.Size = new System.Drawing.Size(909, 68);
@@ -320,7 +320,7 @@
             // 
             // R3_Time1
             // 
-            this.R3_Time1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Time1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.R3_Time1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Time1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.R3_Time1.ForeColor = System.Drawing.Color.White;
@@ -334,10 +334,10 @@
             // R3_Answer1
             // 
             this.R3_Answer1.AutoSize = true;
-            this.R3_Answer1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(48)))));
+            this.R3_Answer1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(229)))), ((int)(((byte)(226)))));
             this.R3_Answer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.R3_Answer1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.R3_Answer1.ForeColor = System.Drawing.Color.White;
+            this.R3_Answer1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.R3_Answer1.Location = new System.Drawing.Point(3, 0);
             this.R3_Answer1.Name = "R3_Answer1";
             this.R3_Answer1.Size = new System.Drawing.Size(909, 68);
@@ -380,7 +380,7 @@
             this._lblAnswer.ForeColor = System.Drawing.Color.WhiteSmoke;
             this._lblAnswer.Location = new System.Drawing.Point(3, 0);
             this._lblAnswer.Name = "_lblAnswer";
-            this._lblAnswer.Size = new System.Drawing.Size(337, 33);
+            this._lblAnswer.Size = new System.Drawing.Size(337, 42);
             this._lblAnswer.TabIndex = 38;
             this._lblAnswer.Text = "Đáp án:";
             this._lblAnswer.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -403,7 +403,7 @@
             // TeamAnswer24
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(107)))), ((int)(((byte)(104)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(186)))), ((int)(((byte)(132)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "TeamAnswer24";

@@ -109,7 +109,7 @@
             // 
             // txtTeam2
             // 
-            this.txtTeam2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.txtTeam2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.txtTeam2.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtTeam2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTeam2.ForeColor = System.Drawing.Color.White;
@@ -121,10 +121,10 @@
             // 
             // txtMarkTeam2
             // 
-            this.txtMarkTeam2.BackColor = System.Drawing.Color.White;
+            this.txtMarkTeam2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.txtMarkTeam2.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtMarkTeam2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMarkTeam2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(255)))));
+            this.txtMarkTeam2.ForeColor = System.Drawing.Color.White;
             this.txtMarkTeam2.Location = new System.Drawing.Point(0, 308);
             this.txtMarkTeam2.Name = "txtMarkTeam2";
             this.txtMarkTeam2.Size = new System.Drawing.Size(213, 54);
@@ -142,7 +142,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Image = global::HoiThiDV.Properties.Resources.person_default;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
@@ -176,7 +176,7 @@
             // 
             // txtTeam1
             // 
-            this.txtTeam1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.txtTeam1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.txtTeam1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtTeam1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTeam1.ForeColor = System.Drawing.Color.White;
@@ -188,10 +188,10 @@
             // 
             // txtMarkTeam1
             // 
-            this.txtMarkTeam1.BackColor = System.Drawing.Color.White;
+            this.txtMarkTeam1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.txtMarkTeam1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtMarkTeam1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMarkTeam1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(255)))));
+            this.txtMarkTeam1.ForeColor = System.Drawing.Color.White;
             this.txtMarkTeam1.Location = new System.Drawing.Point(0, 308);
             this.txtMarkTeam1.Name = "txtMarkTeam1";
             this.txtMarkTeam1.Size = new System.Drawing.Size(213, 54);
@@ -209,7 +209,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Top;
             this.pictureBox2.Image = global::HoiThiDV.Properties.Resources.person_default;
             this.pictureBox2.Location = new System.Drawing.Point(0, 0);
@@ -243,7 +243,7 @@
             // 
             // txtTeam3
             // 
-            this.txtTeam3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.txtTeam3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.txtTeam3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtTeam3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTeam3.ForeColor = System.Drawing.Color.White;
@@ -255,10 +255,10 @@
             // 
             // txtMarkTeam3
             // 
-            this.txtMarkTeam3.BackColor = System.Drawing.Color.White;
+            this.txtMarkTeam3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.txtMarkTeam3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtMarkTeam3.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMarkTeam3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(255)))));
+            this.txtMarkTeam3.ForeColor = System.Drawing.Color.White;
             this.txtMarkTeam3.Location = new System.Drawing.Point(0, 308);
             this.txtMarkTeam3.Name = "txtMarkTeam3";
             this.txtMarkTeam3.Size = new System.Drawing.Size(213, 54);
@@ -276,7 +276,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.pictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.pictureBox3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox3.Image = global::HoiThiDV.Properties.Resources.person_default;
             this.pictureBox3.Location = new System.Drawing.Point(0, 0);
@@ -310,7 +310,7 @@
             // 
             // txtTeam4
             // 
-            this.txtTeam4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.txtTeam4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.txtTeam4.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtTeam4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTeam4.ForeColor = System.Drawing.Color.White;
@@ -322,10 +322,10 @@
             // 
             // txtMarkTeam4
             // 
-            this.txtMarkTeam4.BackColor = System.Drawing.Color.White;
+            this.txtMarkTeam4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.txtMarkTeam4.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtMarkTeam4.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMarkTeam4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(255)))));
+            this.txtMarkTeam4.ForeColor = System.Drawing.Color.White;
             this.txtMarkTeam4.Location = new System.Drawing.Point(0, 308);
             this.txtMarkTeam4.Name = "txtMarkTeam4";
             this.txtMarkTeam4.Size = new System.Drawing.Size(213, 54);
@@ -343,7 +343,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.pictureBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.pictureBox5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox5.Image = global::HoiThiDV.Properties.Resources.person_default;
             this.pictureBox5.Location = new System.Drawing.Point(0, 0);
@@ -359,7 +359,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblTitleBGK.Font = new System.Drawing.Font("Microsoft Sans Serif", 58F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitleBGK.ForeColor = System.Drawing.Color.Transparent;
+            this.lblTitleBGK.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(96)))), ((int)(((byte)(78)))));
             this.lblTitleBGK.Location = new System.Drawing.Point(3, 0);
             this.lblTitleBGK.Name = "lblTitleBGK";
             this.lblTitleBGK.Size = new System.Drawing.Size(1191, 119);
@@ -414,7 +414,7 @@
             // 
             // txtTeam5
             // 
-            this.txtTeam5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.txtTeam5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.txtTeam5.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtTeam5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTeam5.ForeColor = System.Drawing.Color.White;
@@ -426,10 +426,10 @@
             // 
             // txtMarkTeam5
             // 
-            this.txtMarkTeam5.BackColor = System.Drawing.Color.White;
+            this.txtMarkTeam5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(123)))), ((int)(((byte)(71)))));
             this.txtMarkTeam5.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.txtMarkTeam5.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMarkTeam5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(51)))), ((int)(((byte)(255)))));
+            this.txtMarkTeam5.ForeColor = System.Drawing.Color.White;
             this.txtMarkTeam5.Location = new System.Drawing.Point(0, 308);
             this.txtMarkTeam5.Name = "txtMarkTeam5";
             this.txtMarkTeam5.Size = new System.Drawing.Size(213, 54);
@@ -447,7 +447,7 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(204)))), ((int)(((byte)(255)))));
+            this.pictureBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(123)))), ((int)(((byte)(110)))));
             this.pictureBox6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox6.Image = global::HoiThiDV.Properties.Resources.person_default;
             this.pictureBox6.Location = new System.Drawing.Point(0, 0);
