@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\",
+  "WorkspaceRootPath": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HoiThiDV\\Model\\Contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,28 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Contestant.cs",
-              "DocumentMoniker": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\Contestant.cs",
-              "ToolTip": "F:\\www\\ngan-hang-xanh\\source\\hoithivhksrr\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
               "RelativeToolTip": "HoiThiDV\\Model\\Contestant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T11:06:58.362Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
