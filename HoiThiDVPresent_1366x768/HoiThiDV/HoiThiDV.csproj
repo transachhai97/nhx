@@ -315,6 +315,7 @@
     <None Include="Resources\VHRR_SoftBanner2x.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\logo-nhx.jpg" />
     <None Include="Resources\nhx.jpg" />
     <None Include="Resources\FFFFFF %281%29.png" />
     <None Include="Resources\ch2.gif" />

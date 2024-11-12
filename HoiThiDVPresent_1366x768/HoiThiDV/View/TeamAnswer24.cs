@@ -112,7 +112,7 @@ namespace HoiThiDV.View
 
             //_lblAnswer.Text = "Đáp án: ";
             //lblAnswerCT.Text = data.QuestionAnswer;
-            //mo_dap_an.Play();
+            mo_dap_an.Play();
             titleAnswer.Text = "Đáp án: " + data.QuestionAnswer;
         }
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\demo\\0909\\source\\HoiThiDV_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|d:\\demo\\0909\\source\\hoithidv_server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDV_Server\\hoithidv\\controller\\cauhinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,38 +118,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormServer.cs",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\FormServer.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
-              "RelativeToolTip": "HoiThiDV\\FormServer.cs",
-              "ViewState": "AgIAALUEAAAAAAAAAAD4v7wEAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:42:56.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FormServer.Designer.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.Designer.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\FormServer.Designer.cs",
               "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.Designer.cs",
               "RelativeToolTip": "HoiThiDV\\FormServer.Designer.cs",
-              "ViewState": "AgIAAA0MAAAAAAAAAAD4vxQMAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T02:13:18.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormServer.cs [Design]",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\FormServer.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs [Design]",
-              "RelativeToolTip": "HoiThiDV\\FormServer.cs [Design]",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\FormServer.cs [Design]*",
+              "RelativeToolTip": "HoiThiDV\\FormServer.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T01:32:20.618Z",
               "EditorCaption": " [Design]"
@@ -172,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ChangeScore.cs [Design]",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\ChangeScore.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\ChangeScore.cs",
@@ -182,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CauHinhController.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\CauHinhController.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Controller\\CauHinhController.cs",
@@ -194,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Question.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Question.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\Question.cs",
@@ -218,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "QuestionDAO.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\QuestionDAO.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\DAO\\QuestionDAO.cs",
@@ -230,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "DataServer.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\DataServer.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\DataServer.cs",
@@ -242,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "More.cs [Design]",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\More.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\More.cs",
@@ -252,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "KhoiDongController.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\KhoiDongController.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Controller\\KhoiDongController.cs",
@@ -264,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ContestantDAO.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\ContestantDAO.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\DAO\\ContestantDAO.cs",
@@ -276,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "TangTocController.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\TangTocController.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Controller\\TangTocController.cs",
@@ -288,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "GamePlayDAO.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\GamePlayDAO.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\DAO\\GamePlayDAO.cs",
@@ -300,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ChangeScore.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\ChangeScore.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\ChangeScore.cs",
@@ -312,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Constant.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Constant.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\Constant.cs",
@@ -324,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "BamChuongController.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Controller\\BamChuongController.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Controller\\BamChuongController.cs",
@@ -336,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\packages.config",
               "RelativeDocumentMoniker": "HoiThiDV\\packages.config",
@@ -348,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "ConnectDB.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\DAO\\ConnectDB.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\DAO\\ConnectDB.cs",
@@ -360,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "SendObject.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\SendObject.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\SendObject.cs",
@@ -372,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "More.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\More.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\More.cs",
@@ -384,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "PingData.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\PingData.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\PingData.cs",
@@ -396,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Message.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\Message.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\Message.cs",
@@ -408,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "SimpleContest.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDV_Server\\HoiThiDV\\Model\\SimpleContest.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\SimpleContest.cs",

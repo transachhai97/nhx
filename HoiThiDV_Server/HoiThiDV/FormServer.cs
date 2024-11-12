@@ -1211,6 +1211,7 @@ namespace HoiThiDV
 
         private void R1_BtnAddPoint_Click(object sender, EventArgs e)
         {
+
             R1_BtnReset.Enabled = true;
             R1_BtnAddPoint.Enabled = false;
             R1_BtnShowAnswerCT.Enabled = true;

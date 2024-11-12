@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|d:\\demo\\0909\\source\\hoithidvpresent_1366x768\\hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|d:\\demo\\0909\\source\\hoithidvpresent_1366x768\\hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\khoidong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\khoidong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,31 +47,11 @@
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer25.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\teamanswer24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\view\\team5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\model\\contestant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|solutionrelative:hoithidv\\controller\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E13F1D3C-97A6-4E04-A6E3-E796A13F7322}|HoiThiDV\\HoiThiDV.csproj|D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\hoithidv\\view\\teamanswer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -197,7 +197,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -209,7 +209,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhoiDong.cs",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\KhoiDong.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\KhoiDong.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAAAB4BAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TeamAnswer24.cs [Design]",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team5.cs [Design]",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\View\\Team5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "KhoiDong.cs [Design]",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\View\\KhoiDong.cs",
@@ -222,6 +259,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Controller\\MasterController.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\MasterController.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Controller\\MasterController.cs",
+              "RelativeToolTip": "HoiThiDV\\Controller\\MasterController.cs",
+              "ViewState": "AgIAANsCAAAAAAAAAAAqwNYCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamAnswer24.cs",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
+              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADgv3IAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:38:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "KhoiDong.Designer.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.Designer.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\View\\KhoiDong.Designer.cs",
@@ -234,54 +297,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\Form1.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs [Design]",
-              "RelativeToolTip": "HoiThiDV\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.721Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Team4.cs [Design]",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team4.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\View\\Team4.cs",
               "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team4.cs [Design]",
               "RelativeToolTip": "HoiThiDV\\View\\Team4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.78Z"
+              "WhenOpened": "2024-10-29T01:38:18.78Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KhoiDong.cs",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\View\\KhoiDong.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\KhoiDong.cs",
-              "RelativeToolTip": "HoiThiDV\\View\\KhoiDong.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAAwB4BAAAiAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs",
+              "RelativeDocumentMoniker": "HoiThiDV\\Form1.cs",
+              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Form1.cs [Design]",
+              "RelativeToolTip": "HoiThiDV\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T01:38:18.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TeamAnswer24.cs [Design]",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs [Design]",
-              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TeamAnswer25.cs [Design]",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25.cs",
@@ -292,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TeamAnswer25.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer25.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer25.cs",
@@ -304,30 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Team5.cs [Design]",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\View\\Team5.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\Team5.cs [Design]",
-              "RelativeToolTip": "HoiThiDV\\View\\Team5.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TeamAnswer24.cs",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\View\\TeamAnswer24.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\View\\TeamAnswer24.cs",
-              "RelativeToolTip": "HoiThiDV\\View\\TeamAnswer24.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAADgv3MAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Contestant.cs",
               "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Model\\Contestant.cs",
               "RelativeDocumentMoniker": "HoiThiDV\\Model\\Contestant.cs",
@@ -339,24 +355,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TeamAnswer26_BC.cs",
               "DocumentMoniker": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
               "ToolTip": "F:\\git-bidv\\hoithivhksrr\\0909\\source\\HoiThiDVClient_1366x768\\HoiThiDV\\View\\TeamAnswer26_BC.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T02:28:12.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MasterController.cs",
-              "DocumentMoniker": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Controller\\MasterController.cs",
-              "RelativeDocumentMoniker": "HoiThiDV\\Controller\\MasterController.cs",
-              "ToolTip": "D:\\demo\\0909\\source\\HoiThiDVPresent_1366x768\\HoiThiDV\\Controller\\MasterController.cs",
-              "RelativeToolTip": "HoiThiDV\\Controller\\MasterController.cs",
-              "ViewState": "AgIAANICAAAAAAAAAAAjwNsCAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.718Z"
             },
             {
               "$type": "Document",
@@ -400,7 +404,8 @@
               "RelativeToolTip": "HoiThiDV\\View\\Team5.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.78Z"
+              "WhenOpened": "2024-10-29T01:38:18.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -677,8 +682,7 @@
               "RelativeToolTip": "HoiThiDV\\Form1.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAwDkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:38:18.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T01:38:18.776Z"
             },
             {
               "$type": "Document",
